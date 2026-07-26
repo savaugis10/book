@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785081675333",
+      "title": "Kventinas Dervardas",
+      "author": "Valteris Skotas",
+      "language": "Lithuanian",
+      "year": "1987",
+      "description": "A historical novel set in 15th-century France, following young Scottish archer Quentin Durward as he enters the service of the cunning King Louis XI and becomes entangled in dangerous political intrigue between France and Burgundy. Originally written by Sir Walter Scott and first published in 1823, this is a Lithuanian translation by Juozas Subatavičius.",
+      "genres": [
+        "Historical Fiction",
+        "Adventure",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Novel",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T16:01:15.333Z"
+    },
+    {
       "id": "1785081627183",
       "title": "Eilėraščiai Poemos Drama",
       "author": "Tarasas Ševčenka, Ivanas Franko, Lesia Ukrainka",
