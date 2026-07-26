@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "id": "1785080224873",
+      "title": "Gargantiua ir Pantagriuelis",
+      "author": "Rablė",
+      "language": "Lithuanian",
+      "year": "1986",
+      "description": "A Lithuanian translation of François Rabelais's Renaissance masterpiece, chronicling the fantastical adventures of two giants — Gargantua and his son Pantagruel — blending earthy humor, satire, and philosophical wit to mock human folly and societal norms. Translated from French by Dominykas Urbas and published in Vilnius in 1986 as part of the Pasaulinės Literatūros Biblioteka (World Literature Library) series.",
+      "genres": [
+        "Satire",
+        "Classic",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:37:04.873Z"
+    },
+    {
       "id": "1785080181062",
       "title": "Broliai Karamazovai",
       "author": "Fiodoras Dostojevskis",
