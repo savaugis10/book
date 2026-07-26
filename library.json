@@ -1,6 +1,29 @@
 {
   "books": [
     {
+      "id": "1785079982928",
+      "title": "Džudas Nepastebimasis",
+      "author": "Tomas Hardis",
+      "language": "Lithuanian",
+      "year": "1988",
+      "description": "A Lithuanian translation of Thomas Hardy's Jude the Obscure, following Jude Fawley, a working-class stonemason who dreams of becoming a scholar, whose ambitions are thwarted by class, an ill-fated marriage, and a tragic love affair with his cousin Sue Bridehead. Published in 1895, Hardy's final novel caused great controversy for its frank critique of Victorian institutions of marriage, religion, and education.",
+      "genres": [
+        "Classic Fiction",
+        "Victorian",
+        "Tragedy",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Novel",
+        "Translation",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:33:02.928Z"
+    },
+    {
       "id": "1785079942290",
       "title": "Daktaras Faustas",
       "author": "Tomas Manas",
