@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785080906177",
+      "title": "Eilėraščiai. Poemos. Pjesės",
+      "author": "Vladimiras Majakovskis",
+      "language": "Lithuanian",
+      "year": "1986",
+      "description": "A Lithuanian-language anthology collecting the most significant works of Russian Futurist poet Vladimir Mayakovsky, illustrating the evolution of his creative output across genres. Published by Vaga in Vilnius in 1986 as part of the Pasaulinės literatūros biblioteka (World Literature Library) series.",
+      "genres": [
+        "Poetry",
+        "Drama",
+        "Classic Literature"
+      ],
+      "bookTypes": [
+        "Anthology",
+        "Fiction",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:48:26.177Z"
+    },
+    {
       "id": "1785080850797",
       "title": "Broliai Karamazovai    1 tomas",
       "author": "Fiodoras Dostojevskis",
