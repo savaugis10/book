@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "id": "1785080354665",
+      "title": "Mielas draugas. Pjeras ir Žanas. Novelės",
+      "author": "Gi de Mopasanas",
+      "language": "Lithuanian",
+      "year": "1988",
+      "description": "A Lithuanian-language collection featuring two of Guy de Maupassant's novels — Bel-Ami (1885), a satirical portrait of an ambitious journalist's corrupt rise in Parisian society, and Pierre et Jean (1888), a psychological study of two brothers — along with novellas/short stories.",
+      "genres": [
+        "Literary Realism",
+        "Short Stories",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Collected Works",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:39:14.665Z"
+    },
+    {
       "id": "1785080332304",
       "title": "Quo Vadis",
       "author": "Henrikas Senkevičius",
