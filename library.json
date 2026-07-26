@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785081010699",
+      "title": "Apsakymai Dramos",
+      "author": "Maksimas Gorkis",
+      "language": "Lithuanian",
+      "year": "1988",
+      "description": "A Lithuanian-language collection of the most significant short stories and plays by Maxim Gorky, founder of socialist realism, depicting a broad panorama of pre-revolutionary Russian folk life. Published in Vilnius in 1988 as part of the 'Pasaulinės literatūros biblioteka' (World Literature Library) series.",
+      "genres": [
+        "Short Stories",
+        "Drama",
+        "Fiction"
+      ],
+      "bookTypes": [
+        "Anthology",
+        "Fiction",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:50:10.699Z"
+    },
+    {
       "id": "1785080980639",
       "title": "NOVELĖS / KARAS SU SALAMANDROMIS",
       "author": "Žigmondas Moricas / Karelas Čapekas",
