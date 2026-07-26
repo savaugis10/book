@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785081721387",
+      "title": "Meistras ir Margarita",
+      "author": "Michailas Bulgakovas",
+      "language": "Lithuanian",
+      "year": "1996",
+      "description": "The Devil, posing as Professor Woland, arrives in 1930s Soviet Moscow with his bizarre entourage and wreaks havoc, exposing the moral corruption of Soviet society. The novel weaves together a love story between a struggling writer known as the Master and his devoted Margarita, alongside a reimagined biblical narrative of Pontius Pilate and Yeshua Ha-Nozri.",
+      "genres": [
+        "Magical Realism",
+        "Satire",
+        "Fiction",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Novel",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T16:02:01.387Z"
+    },
+    {
       "id": "1785081675333",
       "title": "Kventinas Dervardas",
       "author": "Valteris Skotas",
