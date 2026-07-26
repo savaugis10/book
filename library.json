@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785081069506",
+      "title": "Saga apie Gestą Berlingą / Nykštukas. Sibilė",
+      "author": "Selma Lagerliof / Peras Lagerkvistas",
+      "language": "Lithuanian",
+      "year": "1989",
+      "description": "This volume contains two works: Selma Lagerlöf's debut novel about Gösta Berling, a defrocked priest who becomes one of the carefree cavaliers at the manor of Ekeby in Sweden's Värmland region; and two novels by Pär Lagerkvist — 'The Dwarf,' a dark Renaissance tale exploring evil, and 'The Sibyl,' about a simple girl chosen as an oracle at Delphi who grapples with questions of earthly love and the divine.",
+      "genres": [
+        "Classic Fiction",
+        "Literary Fiction",
+        "Philosophical Fiction"
+      ],
+      "bookTypes": [
+        "Anthology",
+        "Fiction",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:51:09.506Z"
+    },
+    {
       "id": "1785081010699",
       "title": "Apsakymai Dramos",
       "author": "Maksimas Gorkis",
