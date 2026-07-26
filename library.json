@@ -1,6 +1,29 @@
 {
   "books": [
     {
+      "id": "1785080181062",
+      "title": "Broliai Karamazovai",
+      "author": "Fiodoras Dostojevskis",
+      "language": "Lithuanian",
+      "year": "1986",
+      "description": "A sweeping philosophical novel set in 19th-century Russia, following the Karamazov family — a depraved father and his three sons — through a story of patricide, moral struggle, and profound questions about faith, free will, and the existence of God. It is widely considered Dostoevsky's masterpiece and one of the greatest novels in world literature.",
+      "genres": [
+        "Philosophical Fiction",
+        "Classic Literature",
+        "Russian Literature",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Novel",
+        "Plb",
+        "Fiction"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:36:21.062Z"
+    },
+    {
       "id": "1785080103856",
       "title": "Poezija Drama Proza",
       "author": "Michailas Lermontovas",
