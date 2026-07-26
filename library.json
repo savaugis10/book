@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785081278398",
+      "title": "SILVESTRO BONARO NUSIKALTIMAS DIEVAI TROKŠTA",
+      "author": "Anatolis Fransas",
+      "language": "Lithuanian",
+      "year": "1996",
+      "description": "A Lithuanian-language volume collecting two novels by Anatole France: *The Crime of Sylvestre Bonnard* (1881), about an aging scholar's obsessive quest for a lost manuscript, and *The Gods Are Athirst* (1912), a historical novel set during the French Revolution's Reign of Terror, following a fanatical young painter who sends countless people to the guillotine before meeting the same fate himself.",
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction",
+        "Classic"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Anthology",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:54:38.398Z"
+    },
+    {
       "id": "1785081237647",
       "title": "Metamorfozės",
       "author": "Ovidijus",
