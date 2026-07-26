@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785079879516",
+      "title": "Sužadėtiniai",
+      "author": "Alesandras Mandzonis",
+      "language": "Lithuanian",
+      "year": "1990",
+      "description": "A Lithuanian translation of Alessandro Manzoni's celebrated Italian historical novel *I promessi sposi*, set in 17th-century Spanish-ruled Lombardy, following two peasant lovers whose plans to marry are obstructed by a tyrannical local lord, a cowardly priest, and the upheavals of plague and war. Translated from Italian by Algimantas Vaišnoras and published in Vilnius in 1990 as part of the World Literature Library series.",
+      "genres": [
+        "Historical Fiction",
+        "Romance",
+        "Classic"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Translation",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:31:19.516Z"
+    },
+    {
       "id": "1785079838748",
       "title": "Didieji lūkesčiai",
       "author": "Čarlzas Dikensas",
