@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785081579112",
+      "title": "Dramos Sonetai",
+      "author": "Viljamas Šekspyras",
+      "language": "Lithuanian",
+      "year": "1986",
+      "description": "A Lithuanian-language collection of William Shakespeare's plays and sonnets, translated by Aleksys Churginas and published in Vilnius in 1986 as part of the Pasaulinės Literatūros Biblioteka (World Literature Library) series. It includes major plays such as Richard III, Romeo and Juliet, Hamlet, and Macbeth, alongside Shakespeare's celebrated sonnets.",
+      "genres": [
+        "Drama",
+        "Poetry",
+        "Classic Literature"
+      ],
+      "bookTypes": [
+        "Translated Works",
+        "Anthology",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:59:39.112Z"
+    },
+    {
       "id": "1785081530747",
       "title": "ROLANDO GIESMĖ. NIBELUNGŲ GIESMĖ",
       "author": "",
