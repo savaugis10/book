@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785080531246",
+      "title": "Eilėraščiai Dramos",
+      "author": "Frydrichas Šileris",
+      "language": "Lithuanian",
+      "year": "1989",
+      "description": "A Lithuanian-language anthology collecting the most significant poems and dramas of the German literary classic Friedrich Schiller (1759–1805), including plays such as 'Klasta ir meilė' (Intrigue and Love), 'Marija Stiuart' (Mary Stuart), and 'Vilius Telis' (William Tell). Published as volume 32 of the 'Pasaulinės literatūros biblioteka' (World Literature Library) series by Vaga publishing house in Vilnius.",
+      "genres": [
+        "Poetry",
+        "Drama",
+        "Classics"
+      ],
+      "bookTypes": [
+        "Anthology",
+        "Fiction",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:42:11.246Z"
+    },
+    {
       "id": "1785080354665",
       "title": "Mielas draugas. Pjeras ir Žanas. Novelės",
       "author": "Gi de Mopasanas",
