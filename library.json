@@ -1,0 +1,62 @@
+{
+  "books": [
+    {
+      "id": "1785071763749",
+      "title": "Cinko Berniukai",
+      "author": "Svetlana Aleksijevič",
+      "language": "Lithuanian",
+      "year": "2015",
+      "description": "A documentary account of the Soviet-Afghan War told through the voices of soldiers, mothers, and witnesses who experienced its devastating human cost. The title refers to the zinc coffins in which Soviet soldiers were returned home, often in secret.",
+      "genres": [
+        "War",
+        "Non Fiction",
+        "Oral History"
+      ],
+      "bookTypes": [
+        "Non Fiction"
+      ],
+      "locations": [],
+      "added": "2026-07-26T13:16:03.749Z"
+    }
+  ],
+  "tags": {
+    "genres": [
+      "Art",
+      "Biography",
+      "Children",
+      "Comics",
+      "Cooking",
+      "Fantasy",
+      "Fiction",
+      "History",
+      "Horror",
+      "Mystery",
+      "Non Fiction",
+      "Other",
+      "Philosophy",
+      "Poetry",
+      "Religion",
+      "Romance",
+      "Science",
+      "Science Fiction",
+      "Self Help",
+      "Thriller",
+      "Travel"
+    ],
+    "types": [
+      "Art",
+      "Children",
+      "Comics Manga",
+      "Cooking",
+      "Fiction",
+      "Non Fiction",
+      "Other",
+      "Reference",
+      "Science",
+      "Self Help",
+      "Textbook",
+      "Travel"
+    ],
+    "locations": []
+  }
+}
