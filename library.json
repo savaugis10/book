@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785081768335",
+      "title": "MOBI DIKAS, ARBA BANGINIS",
+      "author": "Hermanas Melvilis",
+      "language": "Lithuanian",
+      "year": "1987",
+      "description": "An epic tale of the obsessive Captain Ahab and his crew aboard the whaling ship Pequod as they pursue the legendary great white sperm whale across the world's oceans. A sweeping exploration of obsession, revenge, and humanity's place in the universe, widely regarded as one of the greatest American novels ever written.",
+      "genres": [
+        "Adventure Fiction",
+        "Literary Fiction",
+        "Classic",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Novel",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T16:02:48.335Z"
+    },
+    {
       "id": "1785081721387",
       "title": "Meistras ir Margarita",
       "author": "Michailas Bulgakovas",
