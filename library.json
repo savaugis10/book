@@ -1,6 +1,29 @@
 {
   "books": [
     {
+      "id": "1785080300715",
+      "title": "Raudona ir Juoda",
+      "author": "Stendalis",
+      "language": "Lithuanian",
+      "year": "1988",
+      "description": "A powerful psychological novel set in post-Napoleonic France following Julien Sorel, an ambitious young man of humble origins who uses seduction and cunning to climb the social ladder, navigating the worlds of the church and the aristocracy. It is a sweeping critique of 19th-century French society, exploring themes of ambition, hypocrisy, and the conflict between personal desire and social expectation.",
+      "genres": [
+        "Classic Fiction",
+        "Realism",
+        "Historical Fiction",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Novel",
+        "Fiction",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:38:20.715Z"
+    },
+    {
       "id": "1785080269428",
       "title": "Tuštybės Mugė",
       "author": "Viljamas Meikpisas Tekerėjus",
