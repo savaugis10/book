@@ -1,6 +1,29 @@
 {
   "books": [
     {
+      "id": "1785081172123",
+      "title": "Demonai",
+      "author": "Fiodoras Dostojevskis",
+      "language": "Lithuanian",
+      "year": "1997",
+      "description": "A fictional Russian town descends into chaos as it becomes the focal point of an attempted revolution orchestrated by the conspirator Pyotr Verkhovensky. The novel is Dostoevsky's powerful allegory of the catastrophic consequences of nihilism and radical ideology in 19th-century Russia.",
+      "genres": [
+        "Classic Fiction",
+        "Political Satire",
+        "Psychological Drama",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Novel",
+        "Classic",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:52:52.123Z"
+    },
+    {
       "id": "1785081125526",
       "title": "Tuštybės Mugė   2 Tomas",
       "author": "Viljamas Meikpisas Tekerėjus",
