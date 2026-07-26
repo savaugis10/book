@@ -1,6 +1,29 @@
 {
   "books": [
     {
+      "id": "1785079942290",
+      "title": "Daktaras Faustas",
+      "author": "Tomas Manas",
+      "language": "Lithuanian",
+      "year": "1988",
+      "description": "A reimagining of the Faust legend following fictional German composer Adrian Leverkühn, who makes a Faustian pact with the Devil in exchange for musical genius, as narrated by his childhood friend. Set against the backdrop of Germany's descent into fascism, the novel explores themes of art, ambition, and moral decay.",
+      "genres": [
+        "Literary Fiction",
+        "Philosophical Novel",
+        "Classics",
+        "Romanas",
+        "Fiction"
+      ],
+      "bookTypes": [
+        "Translation",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:32:22.290Z"
+    },
+    {
       "id": "1785079879516",
       "title": "Sužadėtiniai",
       "author": "Alesandras Mandzonis",
