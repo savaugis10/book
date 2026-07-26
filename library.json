@@ -1,6 +1,29 @@
 {
   "books": [
     {
+      "id": "1785081627183",
+      "title": "Eilėraščiai Poemos Drama",
+      "author": "Tarasas Ševčenka, Ivanas Franko, Lesia Ukrainka",
+      "language": "Lithuanian",
+      "year": "1988",
+      "description": "A Lithuanian-language anthology published as part of the 'Pasaulinės literatūros bibliotekos' (World Literature Library) series, collecting poems, long-form verse, and drama by three foundational Ukrainian literary figures: Taras Shevchenko, Ivan Franko, and Lesya Ukrainka.",
+      "genres": [
+        "Poetry",
+        "Drama",
+        "World Literature",
+        "Romance"
+      ],
+      "bookTypes": [
+        "Anthology",
+        "Fiction",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T16:00:27.183Z"
+    },
+    {
       "id": "1785081579112",
       "title": "Dramos Sonetai",
       "author": "Viljamas Šekspyras",
