@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785079838748",
+      "title": "Didieji lūkesčiai",
+      "author": "Čarlzas Dikensas",
+      "language": "Lithuanian",
+      "year": "1996",
+      "description": "A Lithuanian translation of Charles Dickens's Great Expectations, following the orphan Pip as he rises from humble origins in rural England to pursue wealth and gentility in London. The novel explores themes of social class, ambition, and the discovery that loyalty and compassion matter more than status or fortune.",
+      "genres": [
+        "Classic Fiction",
+        "Coming of Age",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Novel",
+        "Translation",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:30:38.748Z"
+    },
+    {
       "id": "1785079771695",
       "title": "Moters Portretas",
       "author": "Henris Džeimsas",
