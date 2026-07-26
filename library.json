@@ -1,6 +1,29 @@
 {
   "books": [
     {
+      "id": "1785081125526",
+      "title": "Tuštybės Mugė   2 Tomas",
+      "author": "Viljamas Meikpisas Tekerėjus",
+      "language": "Lithuanian",
+      "year": "1990",
+      "description": "A panoramic satirical novel set against the backdrop of the Napoleonic Wars, following the contrasting lives of the cunning social climber Becky Sharp and the gentle, naive Amelia Sedley as they navigate the hypocrisies and vanities of early 19th-century English society. This is Volume II of the Lithuanian translation, published in Vilnius in 1990 as part of the Pasaulinės Literatūros Biblioteka (World Literature Library) series, translated by Stasys Tomonis.",
+      "genres": [
+        "Satire",
+        "Classic Fiction",
+        "Social Criticism",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Novel",
+        "Classic",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:52:05.526Z"
+    },
+    {
       "id": "1785081069506",
       "title": "Saga apie Gestą Berlingą / Nykštukas. Sibilė",
       "author": "Selma Lagerliof / Peras Lagerkvistas",
