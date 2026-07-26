@@ -1,6 +1,29 @@
 {
   "books": [
     {
+      "id": "1785080850797",
+      "title": "Broliai Karamazovai    1 tomas",
+      "author": "Fiodoras Dostojevskis",
+      "language": "Lithuanian",
+      "year": "1986",
+      "description": "Dostoevsky's final masterpiece follows the Karamazov family — a dissolute father and his three sons — through a murder mystery, courtroom drama, and profound philosophical debate. The novel explores themes of faith, free will, morality, and redemption through the contrasting temperaments of brothers Dmitri, Ivan, and Alyosha.",
+      "genres": [
+        "Literary Fiction",
+        "Philosophical Fiction",
+        "Classic",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Novel",
+        "Fiction",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:47:30.797Z"
+    },
+    {
       "id": "1785080531246",
       "title": "Eilėraščiai Dramos",
       "author": "Frydrichas Šileris",
