@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785080103856",
+      "title": "Poezija Drama Proza",
+      "author": "Michailas Lermontovas",
+      "language": "Lithuanian",
+      "year": "1987",
+      "description": "A Lithuanian-language anthology collecting the best works of Russian literary classic Mikhail Lermontov, including his most significant poems, narrative poems, the verse drama Masquerade, and the novel A Hero of Our Time.",
+      "genres": [
+        "Poetry",
+        "Drama",
+        "Fiction"
+      ],
+      "bookTypes": [
+        "Anthology",
+        "Classic",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:35:03.856Z"
+    },
+    {
       "id": "1785080025794",
       "title": "PINIGŲ PADIRBINĖTOJAI",
       "author": "André Gide",
