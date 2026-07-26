@@ -1,6 +1,29 @@
 {
   "books": [
     {
+      "id": "1785081237647",
+      "title": "Metamorfozės",
+      "author": "Ovidijus",
+      "language": "Lithuanian",
+      "year": "1990",
+      "description": "A Lithuanian translation of Ovid's Metamorphoses, a Latin narrative poem from 8 CE comprising over 250 myths that chronicles the history of the world from its creation to the deification of Julius Caesar. Translated from Latin by Antanas Dambrauskas and published in Vilnius in 1990 as part of the Pasaulinės Literatūros Biblioteka (World Literature Library) series.",
+      "genres": [
+        "Mythology",
+        "Epic Poetry",
+        "Classical Literature",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Poetry",
+        "Translation",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:53:57.647Z"
+    },
+    {
       "id": "1785081172123",
       "title": "Demonai",
       "author": "Fiodoras Dostojevskis",
