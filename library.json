@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785079771695",
+      "title": "Moters Portretas",
+      "author": "Henris Džeimsas",
+      "language": "Lithuanian",
+      "year": "1991",
+      "description": "A Lithuanian translation of Henry James's 1881 novel The Portrait of a Lady, following Isabel Archer, a spirited young American woman who travels to Europe, inherits a fortune, and becomes entangled in Machiavellian scheming that threatens her independence. The novel explores themes of personal freedom, betrayal, and the clash between American and European values.",
+      "genres": [
+        "Classic Fiction",
+        "Literary Realism",
+        "Psychological Fiction",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Novel",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:29:31.696Z"
+    },
+    {
       "id": "1785071763749",
       "title": "Cinko Berniukai",
       "author": "Svetlana Aleksijevič",
