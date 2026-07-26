@@ -1,6 +1,29 @@
 {
   "books": [
     {
+      "id": "1785081331284",
+      "title": "Doriano Grėjaus Portretas / Menininko Jaunų Dienų Portretas",
+      "author": "Oskaras Vaildas / Džeimsas Džoisas",
+      "language": "Lithuanian",
+      "year": "1989",
+      "description": "An anthology of two classic novels in Lithuanian translation: Oscar Wilde's tale of a beautiful young man whose portrait ages in place of him as he descends into moral corruption, and James Joyce's semi-autobiographical coming-of-age story following Stephen Dedalus from childhood through his intellectual and artistic awakening in Ireland.",
+      "genres": [
+        "Classic Fiction",
+        "Modernism",
+        "Gothic",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Anthology",
+        "Fiction",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:55:31.284Z"
+    },
+    {
       "id": "1785081278398",
       "title": "SILVESTRO BONARO NUSIKALTIMAS DIEVAI TROKŠTA",
       "author": "Anatolis Fransas",
