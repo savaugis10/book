@@ -1,6 +1,29 @@
 {
   "books": [
     {
+      "id": "1785080269428",
+      "title": "Tuštybės Mugė",
+      "author": "Viljamas Meikpisas Tekerėjus",
+      "language": "Lithuanian",
+      "year": "1990",
+      "description": "A Lithuanian translation of William Makepeace Thackeray's Vanity Fair (subtitled 'A Novel without a Hero'), following the intertwined lives of the cunning Becky Sharp and the gentle Amelia Sedley amid the social world of early 19th-century England during and after the Napoleonic Wars. This is Volume I, translated by Stasys Tomonis and published in Vilnius in 1990 as part of the Pasaulinės Literatūros Biblioteka (World Literature Library) series.",
+      "genres": [
+        "Satire",
+        "Classic Fiction",
+        "Social Criticism",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Novel",
+        "Translation",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:37:49.429Z"
+    },
+    {
       "id": "1785080224873",
       "title": "Gargantiua ir Pantagriuelis",
       "author": "Rablė",
