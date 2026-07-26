@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785080025794",
+      "title": "PINIGŲ PADIRBINĖTOJAI",
+      "author": "André Gide",
+      "language": "Lithuanian",
+      "year": "1996",
+      "description": "A complex, polyphonic novel set in Paris intertwining the lives of youths, writers, and schemers to explore authenticity, moral compromise, and the forging of identity. It is a novel-within-a-novel in which a coin counterfeiting ring serves as a metaphor for the broader human tendency toward deception and false values.",
+      "genres": [
+        "Modernist Fiction",
+        "Literary Fiction",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Novel",
+        "Translation",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:33:45.794Z"
+    },
+    {
       "id": "1785079982928",
       "title": "Džudas Nepastebimasis",
       "author": "Tomas Hardis",
