@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "id": "1785080332304",
+      "title": "Quo Vadis",
+      "author": "Henrikas Senkevičius",
+      "language": "Lithuanian",
+      "year": "1991",
+      "description": "Set in ancient Rome during the reign of Emperor Nero, Quo Vadis follows the love story of Marcus Vinicius, a Roman patrician, and Lygia, a young Christian woman, against the backdrop of the brutal persecution of early Christians. The novel explores themes of love, faith, and the clash between paganism and Christianity, and contributed to Sienkiewicz's Nobel Prize in Literature in 1905.",
+      "genres": [
+        "Historical Fiction",
+        "Classic",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Novel",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:38:52.304Z"
+    },
+    {
       "id": "1785080300715",
       "title": "Raudona ir Juoda",
       "author": "Stendalis",
