@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785080980639",
+      "title": "NOVELĖS / KARAS SU SALAMANDROMIS",
+      "author": "Žigmondas Moricas / Karelas Čapekas",
+      "language": "Lithuanian",
+      "year": "1987",
+      "description": "This volume contains two works: short stories by Hungarian realist author Zsigmond Móricz, depicting life and social conflicts in rural Hungarian society, and Karel Čapek's 1936 satirical science fiction novel about the discovery of intelligent giant salamanders who are exploited by humans and eventually revolt, serving as a biting allegory for fascism, colonialism, and capitalism.",
+      "genres": [
+        "Science Fiction",
+        "Satire",
+        "Short Stories"
+      ],
+      "bookTypes": [
+        "Anthology",
+        "Fiction",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:49:40.639Z"
+    },
+    {
       "id": "1785080906177",
       "title": "Eilėraščiai. Poemos. Pjesės",
       "author": "Vladimiras Majakovskis",
