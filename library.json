@@ -1,6 +1,29 @@
 {
   "books": [
     {
+      "id": "1785081530747",
+      "title": "ROLANDO GIESMĖ. NIBELUNGŲ GIESMĖ",
+      "author": "",
+      "language": "Lithuanian",
+      "year": "1988",
+      "description": "This volume contains the most significant French and German medieval heroic epics — the Song of Roland and the Song of the Nibelungs — depicting the battles of knights, their bravery, and heroic deeds. It was published in Vilnius in 1988 as part of the Pasaulinės literatūros biblioteka (World Literature Library) series.",
+      "genres": [
+        "Epic Poetry",
+        "Medieval Literature",
+        "Classics",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Anthology",
+        "Poetry",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:58:50.747Z"
+    },
+    {
       "id": "1785081486192",
       "title": "Tykusis Donas.  1 tomas",
       "author": "Michailas Šolochovas",
