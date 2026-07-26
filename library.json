@@ -1,6 +1,29 @@
 {
   "books": [
     {
+      "id": "1785081486192",
+      "title": "Tykusis Donas.  1 tomas",
+      "author": "Michailas Šolochovas",
+      "language": "Lithuanian",
+      "year": "1987",
+      "description": "A sweeping four-volume epic following Cossack Grigory Melekhov and his community along the Don River, depicting their lives, loves, and struggles through World War I, the Russian Revolution, and the Civil War. This is Volume I of the Lithuanian translation, published in Vilnius in 1987, translated by Pranas Povilaitis.",
+      "genres": [
+        "Historical Fiction",
+        "Epic",
+        "War",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Classic",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-26T15:58:06.192Z"
+    },
+    {
       "id": "1785081331284",
       "title": "Doriano Grėjaus Portretas / Menininko Jaunų Dienų Portretas",
       "author": "Oskaras Vaildas / Džeimsas Džoisas",
