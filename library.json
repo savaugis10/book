@@ -1,6 +1,69 @@
 {
   "books": [
     {
+      "id": "1785334710184",
+      "title": "Grįžo",
+      "author": "Antanas Vienuolis",
+      "language": "Lithuanian",
+      "year": "2012",
+      "description": "A collection of short stories, novellas, and legends by one of Lithuania's most celebrated classic writers, Antanas Vienuolis, exploring themes of human psychology, rural life, and the conflict of the individual with society. This edition, published without Soviet-era distortions, draws primarily from pre-war publications.",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories",
+        "Legends"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Anthology"
+      ],
+      "locations": [
+        "Lietuvių literatūra"
+      ],
+      "added": "2026-07-29T14:18:30.184Z"
+    },
+    {
+      "id": "1785334708942",
+      "title": "Pas Dangaus Vartus",
+      "author": "Vincas Krėvė",
+      "language": "Lithuanian",
+      "year": "2010",
+      "description": "A collection of prose and drama by one of Lithuania's most prominent 20th-century writers, Vincas Krėvė, featuring works set in the Dzūkija countryside and exploring themes of faith, folk worldview, and human existence. The volume also includes the historical drama Skirgaila, considered a cornerstone of Lithuanian national dramatic literature.",
+      "genres": [
+        "Drama",
+        "Literary Fiction",
+        "Classic Literature"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Prose & Drama"
+      ],
+      "locations": [
+        "Lietuvių literatūra"
+      ],
+      "added": "2026-07-29T14:18:28.942Z"
+    },
+    {
+      "id": "1785334707793",
+      "title": "KAS BUVO IR KAS YRA",
+      "author": "JUOZAS TUMAS-VAIŽGANTAS",
+      "language": "Lithuanian",
+      "year": "2012",
+      "description": "A selected prose anthology of Juozas Tumas-Vaižgantas, one of Lithuania's most celebrated writers and Catholic priests, whose fiction masterfully blends realist narrative with romantic vision, depicting Lithuanian national life, rural folk, and the cultural awakening of his era. Published as the 28th volume in the series 'Lietuvių literatūros lobynas. XX amžius' by Lietuvos rašytojų sąjungos leidykla, Vilnius.",
+      "genres": [
+        "Literary Fiction",
+        "Classic Literature",
+        "Short Prose"
+      ],
+      "bookTypes": [
+        "Anthology",
+        "Fiction"
+      ],
+      "locations": [
+        "Lietuvių literatūra"
+      ],
+      "added": "2026-07-29T14:18:27.793Z"
+    },
+    {
       "id": "1785334706171",
       "title": "Žingsniai ir laiptai",
       "author": "Antanas Škėma",
