@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785331793328",
+      "title": "Vergas apgavikas",
+      "author": "PLAUTAS",
+      "language": "Lithuanian",
+      "year": "1989",
+      "description": "A Roman comedy in which the clever slave Pseudolus schemes to help his young master Calidorus win back his beloved Phoenicium, who has been sold to a Macedonian soldier, by outwitting a conniving pimp and deceiving those around him. This is the Lithuanian translation of Plautus's Pseudolus, published as part of the anthology Antikinės komedijos by Vaga (Vilnius, 1989).",
+      "genres": [
+        "Comedy",
+        "Ancient Literature",
+        "Komedija"
+      ],
+      "bookTypes": [
+        "Play",
+        "Classic",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T13:29:53.328Z"
+    },
+    {
       "id": "1785331790093",
       "title": "Bambeklis",
       "author": "Menandras",
