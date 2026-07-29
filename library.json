@@ -1,6 +1,66 @@
 {
   "books": [
     {
+      "id": "1785333952295",
+      "title": "Stepių vilkas",
+      "author": "Hermann Hesse",
+      "language": "Lithuanian",
+      "year": "1927",
+      "description": "Steppenwolf follows Harry Haller, a middle-aged intellectual who sees himself as torn between human and wolf natures, alienated from bourgeois society. The novel explores themes of identity, duality, and the struggle between the spiritual and the mundane.",
+      "genres": [
+        "Literary Fiction",
+        "Existentialism",
+        "Philosophical Fiction"
+      ],
+      "bookTypes": [
+        "Novel",
+        "Classic"
+      ],
+      "locations": [],
+      "added": "2026-07-29T14:05:52.295Z"
+    },
+    {
+      "id": "1785333950781",
+      "title": "Kelias į Indiją",
+      "author": "Edward Morgan Forster",
+      "language": "Lithuanian",
+      "year": "1924",
+      "description": "Set during the British Raj in 1920s India, the novel explores the cultural tensions and misunderstandings between British colonizers and Indian people, centering on a controversial incident involving an English woman and an Indian doctor. It is widely regarded as a masterpiece of 20th-century literature examining colonialism, racism, and the barriers to cross-cultural friendship.",
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction",
+        "Classic"
+      ],
+      "bookTypes": [
+        "Novel"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-29T14:05:50.781Z"
+    },
+    {
+      "id": "1785333949444",
+      "title": "Plačiai užmerktos akys",
+      "author": "ARTHUR SCHNITZLER",
+      "language": "Lithuanian",
+      "year": "2006",
+      "description": "A 1926 novella set in turn-of-the-century Vienna, following a married doctor whose wife's confession of a fantasy sends him on a dreamlike, erotically charged nocturnal adventure through masked balls and secret societies. It served as the basis for Stanley Kubrick's 1999 film Eyes Wide Shut.",
+      "genres": [
+        "Literary Fiction",
+        "Psychological Fiction",
+        "Novella"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Translation"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-29T14:05:49.444Z"
+    },
+    {
       "id": "1785333948003",
       "title": "Žodžiai",
       "author": "Jean-Paul Sartre",
