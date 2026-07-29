@@ -1,6 +1,29 @@
 {
   "books": [
     {
+      "id": "1785332152601",
+      "title": "Badas. Panas",
+      "author": "Knutas Hamsunas",
+      "language": "Lithuanian",
+      "year": "1987",
+      "description": "This Lithuanian-language volume contains two early novels by Knut Hamsun: *Badas* (*Hunger*), a semi-autobiographical portrait of a starving intellectual's psychological and physical deterioration, and *Panas* (*Pan*), a lyrical story of a lieutenant who retreats into the solitude of nature and becomes entangled in a passionate and ill-fated love. Published by Vaga, Vilnius, 1987, as part of the *Pasaulinės literatūros biblioteka* (World Literature Library) series.",
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Psychological Fiction",
+        "Apysaka"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Novels",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T13:35:52.601Z"
+    },
+    {
       "id": "1785332147215",
       "title": "Apysakos Apsakymai",
       "author": "Džozefas Konradas, Radjardas Kiplingas",
