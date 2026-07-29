@@ -1,6 +1,29 @@
 {
   "books": [
     {
+      "id": "1785325632772",
+      "title": "Absalomai, Absalomai!",
+      "author": "Viljamas Folkneris",
+      "language": "Lithuanian",
+      "year": "1989",
+      "description": "A Southern Gothic novel tracing the rise and fall of Thomas Sutpen, an ambitious plantation owner in the American South, as recounted by multiple unreliable narrators before, during, and after the Civil War. The novel explores themes of ambition, tragedy, racial legacy, and the elusive nature of historical truth.",
+      "genres": [
+        "Southern Gothic",
+        "Literary Fiction",
+        "Historical Fiction",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Classic",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T11:47:12.772Z"
+    },
+    {
       "id": "1785325600850",
       "title": "Eilėraščiai. Poemos / Vieno Miesto Istorija",
       "author": "Nikolajus Nekrasovas / Michailas Saltykovas-Ščedrinas",
