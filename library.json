@@ -1,6 +1,44 @@
 {
   "books": [
     {
+      "id": "1785334697658",
+      "title": "Graži tu mano",
+      "author": "Maironis",
+      "language": "Lithuanian",
+      "year": "2012",
+      "description": "A collection of lyric poetry and an epic poem by Maironis (Jonas Mačiulis, 1862–1932), the celebrated bard of the Lithuanian National Revival, featuring the final 1927 version of his iconic 'Pavasario balsai' (Voices of Spring) and the renowned poem 'Jaunoji Lietuva' (Young Lithuania). Published by Lietuvos rašytojų sąjungos leidykla in Vilnius to mark the 150th anniversary of the poet's birth.",
+      "genres": [
+        "Poetry",
+        "Romanticism"
+      ],
+      "bookTypes": [
+        "Poetry Collection"
+      ],
+      "locations": [
+        "Lietuvių literatūra"
+      ],
+      "added": "2026-07-29T14:18:17.658Z"
+    },
+    {
+      "id": "1785334696303",
+      "title": "Visi eilėraščiai",
+      "author": "Henrikas Radauskas",
+      "language": "Lithuanian",
+      "year": "2007",
+      "description": "A comprehensive collection of all published poems by Henrikas Radauskas (1910–1970), one of the most celebrated Lithuanian lyric poets, known for his aestheticism and poetic transformation of reality. First published in 2007 by Lietuvos rašytojų sąjungos leidykla (Lithuanian Writers' Union Publishing House) in Vilnius, as part of the series \"Lietuvių literatūros lobynas. XX amžius\" (Lithuanian Literary Treasury. 20th Century).",
+      "genres": [
+        "Poetry",
+        "Lithuanian Literature"
+      ],
+      "bookTypes": [
+        "Poetry Collection"
+      ],
+      "locations": [
+        "Lietuvių literatūra"
+      ],
+      "added": "2026-07-29T14:18:16.303Z"
+    },
+    {
       "id": "1785334693236",
       "title": "CHIMEROS AKYS",
       "author": "JONAS AISTIS",
