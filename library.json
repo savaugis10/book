@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785327087370",
+      "title": "Kinų poezija",
+      "author": "",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "An anthology of Chinese poetry translated into Lithuanian, published as part of the 'Pasaulinės literatūros biblioteka' (World Literature Library) series by the Lithuanian publisher Vaga. The collection presents selections from classical and/or traditional Chinese verse for Lithuanian readers. Senoves rytų poezija",
+      "genres": [
+        "Poetry",
+        "World Literature",
+        "Anthology"
+      ],
+      "bookTypes": [
+        "Anthology",
+        "Fiction",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T12:11:27.370Z"
+    },
+    {
       "id": "1785327018599",
       "title": "Senovės Iranėnų Poezija",
       "author": "",
