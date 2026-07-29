@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "id": "1785333936591",
+      "title": "Ledi Čaterli meilužis",
+      "author": "David Herbert Lawrence",
+      "language": "Lithuanian",
+      "year": "1928",
+      "description": "A novel following Lady Constance Chatterley, trapped in a passionless marriage to her paralyzed aristocratic husband, who embarks on a passionate affair with his gamekeeper, Oliver Mellors. First published in 1928, it was famously banned in England and the United States for its explicit content.",
+      "genres": [
+        "Erotic Romance",
+        "Literary Fiction",
+        "Classic"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Novel"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-29T14:05:36.591Z"
+    },
+    {
       "id": "1785333935459",
       "title": "Pornografija",
       "author": "Witold Gombrowicz",
