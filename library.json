@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785326802948",
+      "title": "Senovės Rytų poezija",
+      "author": "sudarė Sigitas Geda",
+      "language": "Lithuanian",
+      "year": "1991",
+      "description": "A Lithuanian-language anthology of ancient world poetry spanning from the 27th–24th centuries BCE, including works from Egyptian, Sumerian, Babylonian, Hittite, ancient Jewish, ancient Indian, Chinese, and Japanese literary traditions. The collection reflects the worldview and culture of ancient peoples across a variety of poetic genres. Senoves rytų poezija.",
+      "genres": [
+        "Poetry",
+        "Anthology",
+        "Ancient Literature"
+      ],
+      "bookTypes": [
+        "Anthology",
+        "Non Fiction",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T12:06:42.948Z"
+    },
+    {
       "id": "1785326752289",
       "title": "HETITŲ POEZIJA",
       "author": "Sigitas Geda",
