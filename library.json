@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785326144681",
+      "title": "Dekameronas",
+      "author": "Džovanis Bokačas",
+      "language": "Lithuanian",
+      "year": "1987",
+      "description": "The Decameron is a 14th-century collection of 100 novellas by Italian author Giovanni Boccaccio, framed around ten young Florentines who flee the Black Death and each tell a story per day over ten days. This is the 1987 Lithuanian-language edition, translated from Italian by Edvardas Viskanta and published in Vilnius.",
+      "genres": [
+        "Classic Literature",
+        "Short Stories",
+        "Fiction"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Classic",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T11:55:44.681Z"
+    },
+    {
       "id": "1785325669393",
       "title": "DRINOS TILTAS / ANT PROTO RIBOS",
       "author": "Ivas Andričius / Miroslavas Krleža",
