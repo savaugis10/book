@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "id": "1785333903010",
+      "title": "Tykusis amerikietis",
+      "author": "Graham Greene",
+      "language": "Lithuanian",
+      "year": "1955",
+      "description": "Set during the First Indochina War, the novel follows British journalist Thomas Fowler and his entanglement with idealistic American operative Alden Pyle, exploring themes of colonialism, moral ambiguity, and the consequences of Western interventionism in Vietnam.",
+      "genres": [
+        "Literary Fiction",
+        "Political Fiction",
+        "Thriller"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Novel"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-29T14:05:03.010Z"
+    },
+    {
       "id": "1785333899972",
       "title": "Dievų miškas",
       "author": "Balys Sruoga",
