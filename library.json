@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785327310841",
+      "title": "HENRIKAS IV",
+      "author": "Luidžis Pirandelas",
+      "language": "Lithuanian",
+      "year": "1922",
+      "description": "A three-act tragedy in which an Italian nobleman falls from his horse during a carnival pageant and comes to believe he is Henry IV, Holy Roman Emperor. For twenty years those around him maintain an elaborate charade to sustain his delusion, while the play explores themes of madness, identity, and the nature of reality.",
+      "genres": [
+        "Tragedy",
+        "Drama"
+      ],
+      "bookTypes": [
+        "Play",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T12:15:10.841Z"
+    },
+    {
       "id": "1785327264296",
       "title": "GERAS ŽMOGUS IŠ SEZUANO",
       "author": "Bertoltas Brechtas",
