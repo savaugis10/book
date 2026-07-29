@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785333943131",
+      "title": "Iš Afrikos",
+      "author": "Karen Blixen",
+      "language": "Lithuanian",
+      "year": "2006",
+      "description": "A memoir recounting Danish author Karen Blixen's seventeen years living in Kenya, where she managed a coffee plantation and formed deep bonds with the land and its people. Originally published in English in 1937, this is the Lithuanian translation by Violeta Tauragienė.",
+      "genres": [
+        "Memoir",
+        "Non Fiction",
+        "Biography"
+      ],
+      "bookTypes": [
+        "Non Fiction"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-29T14:05:43.131Z"
+    },
+    {
       "id": "1785333936591",
       "title": "Ledi Čaterli meilužis",
       "author": "David Herbert Lawrence",
