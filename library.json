@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785327238280",
+      "title": "Orfėjas",
+      "author": "Žanas Kokto",
+      "language": "Lithuanian",
+      "year": "1986",
+      "description": "A surrealist one-act play by Jean Cocteau that reimagines the ancient Greek myth of Orpheus, blending the legendary poet's descent into the Underworld to retrieve Eurydice with modern, fantastical stagecraft and anachronistic dialogue. First performed in Paris in 1926, it is considered one of Cocteau's masterworks.",
+      "genres": [
+        "Drama",
+        "Surrealism",
+        "Mythology"
+      ],
+      "bookTypes": [
+        "Play",
+        "Fiction",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T12:13:58.280Z"
+    },
+    {
       "id": "1785327204516",
       "title": "XX a. Vakarų Dramos",
       "author": "",
