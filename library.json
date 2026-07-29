@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "id": "1785334702778",
+      "title": "Man vėtra sesuo",
+      "author": "Kazys Boruta",
+      "language": "Lithuanian",
+      "year": "2012",
+      "description": "A collection of prose and poetry by Lithuanian writer Kazys Boruta (1905–1965), featuring his celebrated novels including the first edition of *Baltaragio malūnas* and *Mediniai stebuklai*, alongside selected poems showcasing his rebellious, storm-spirited literary voice. Published as the 26th volume in the series *Lietuvių literatūros lobynas. XX amžius* (Lithuanian Literature Treasury: 20th Century).",
+      "genres": [
+        "Fiction",
+        "Poetry",
+        "Lithuanian Literature"
+      ],
+      "bookTypes": [
+        "Prose",
+        "Poetry Collection"
+      ],
+      "locations": [
+        "Lietuvių literatūra"
+      ],
+      "added": "2026-07-29T14:18:22.778Z"
+    },
+    {
       "id": "1785334701663",
       "title": "Sakmė apie Juzą",
       "author": "Juozas Baltušis",
