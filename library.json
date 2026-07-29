@@ -1,6 +1,29 @@
 {
   "books": [
     {
+      "id": "1785332186732",
+      "title": "Antikiniai Romanai ir Pasakėčios",
+      "author": "Longas, Petronijus, Apulėjus, Ezopas, Fedras",
+      "language": "Lithuanian",
+      "year": "1987",
+      "description": "A Lithuanian-language anthology of ancient Greek and Roman prose, including Longus's 'Daphnis and Chloe,' Petronius's 'Satyricon,' and Apuleius's 'The Golden Ass,' alongside selected fables by Aesop and Phaedrus, translated from ancient Greek and Latin.",
+      "genres": [
+        "Classical Literature",
+        "Fiction",
+        "Fables",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Anthology",
+        "Translation",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T13:36:26.732Z"
+    },
+    {
       "id": "1785332180064",
       "title": "KALEVALA",
       "author": "JUSTINAS MARCINKEVIČIUS",
