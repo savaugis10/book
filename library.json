@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785332093325",
+      "title": "Motina Artamonovai",
+      "author": "Maksimas Gorkis",
+      "language": "Lithuanian",
+      "year": "1988",
+      "description": "A multigenerational family saga tracing the rise and fall of the Artamonov family, who found a linen factory in post-Emancipation Russia and amass wealth over three generations, only to decline as revolutionary forces reshape society leading up to 1917. Published in Vilnius as part of the Pasaulinės Literatūros Biblioteka (World Literature Library) series.",
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction",
+        "Family Saga",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Novel",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T13:34:53.325Z"
+    },
+    {
       "id": "1785331906062",
       "title": "Tykusis Donas 2",
       "author": "Michailas Šolochovas",
