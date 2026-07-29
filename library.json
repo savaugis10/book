@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785331769783",
+      "title": "ANTIKINĖS KOMEDIJOS",
+      "author": "ARISTOFANAS, MENANDRAS, PLAUTAS, TERENCIJUS",
+      "language": "Lithuanian",
+      "year": "1989",
+      "description": "A Lithuanian-language anthology of comedies by the greatest ancient playwrights — Greek writers Aristophanes and Menander, and Roman writers Plautus and Terence — published as part of the Pasaulinės Literatūros Biblioteka (World Literature Library) series. The collection includes works translated into Lithuanian, showcasing the wit, satire, and humanism of classical antiquity.",
+      "genres": [
+        "Comedy",
+        "Anthology",
+        "Komedija"
+      ],
+      "bookTypes": [
+        "Classic",
+        "Fiction",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T13:29:29.783Z"
+    },
+    {
       "id": "1785327522215",
       "title": "XX a. Rytų Proza",
       "author": "Lu Sinis, Lao Šė, Riunoskė Akutagava, Jasunaris Kavabata",
