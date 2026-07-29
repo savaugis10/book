@@ -1,6 +1,25 @@
 {
   "books": [
     {
+      "id": "1785333916328",
+      "title": "Apakimas",
+      "author": "Elias Canetti",
+      "language": "Lithuanian",
+      "year": "1935",
+      "description": "A novel following Peter Kien, a reclusive sinologist who lives among his vast private library, as he descends into madness. Originally published in German as *Die Blendung* (1935), it explores isolation, intellectualism, and destruction.",
+      "genres": [
+        "Literary Fiction",
+        "Modernist"
+      ],
+      "bookTypes": [
+        "Novel"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-29T14:05:16.328Z"
+    },
+    {
       "id": "1785333907346",
       "title": "Iš Afrikos",
       "author": "KAREN BLIXEN",
