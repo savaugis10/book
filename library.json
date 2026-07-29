@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785333899972",
+      "title": "Dievų miškas",
+      "author": "Balys Sruoga",
+      "language": "Lithuanian",
+      "year": "2006",
+      "description": "A memoir by Lithuanian writer Balys Sruoga recounting his experiences as a prisoner in the Nazi Stutthof concentration camp, to which he was deported in March 1943 along with dozens of other Lithuanian intellectuals. The work is notable for its use of dark irony and sardonic humor as a means of coping with and depicting the brutal realities of camp life.",
+      "genres": [
+        "Memoir",
+        "Historical",
+        "Non-Fiction",
+        "Momemuarai"
+      ],
+      "bookTypes": [
+        "Memoir",
+        "Non-Fiction"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-29T14:04:59.972Z"
+    },
+    {
       "id": "1785332186732",
       "title": "Antikiniai Romanai ir Pasakėčios",
       "author": "Longas, Petronijus, Apulėjus, Ezopas, Fedras",
