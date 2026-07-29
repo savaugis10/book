@@ -1,6 +1,47 @@
 {
   "books": [
     {
+      "id": "1785334701663",
+      "title": "Sakmė apie Juzą",
+      "author": "Juozas Baltušis",
+      "language": "Lithuanian",
+      "year": "1979",
+      "description": "A Lithuanian novel following Juza, a hermit who voluntarily lives in seclusion in a marsh, only to find it impossible to hide from the sweeping cataclysms of the world — genocide, war, and upheaval. Considered Baltušis's finest work, it won the Lithuanian SSR State Prize in 1980 and the prestigious French Prix du Meilleur Livre Étranger in 1990.",
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "bookTypes": [
+        "Novel",
+        "Fiction"
+      ],
+      "locations": [
+        "Lietuvių literatūra"
+      ],
+      "added": "2026-07-29T14:18:21.663Z"
+    },
+    {
+      "id": "1785334700493",
+      "title": "Rytą Giedra",
+      "author": "Žemaitė",
+      "language": "Lithuanian",
+      "year": "2005",
+      "description": "A collection featuring Žemaitė's unfinished autobiography, in which she recounts her life against a broad social backdrop, alongside her celebrated short stories depicting the everyday life of Lithuanian peasants with realism and compassion. Žemaitė (1845–1921) was one of Lithuania's most prominent writers and a key figure in the Lithuanian National Revival.",
+      "genres": [
+        "Autobiography",
+        "Short Stories",
+        "Lithuanian Literature"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Non Fiction"
+      ],
+      "locations": [
+        "Lietuvių literatūra"
+      ],
+      "added": "2026-07-29T14:18:20.494Z"
+    },
+    {
       "id": "1785334698997",
       "title": "Moderniškas Pavasaris",
       "author": "Kazys Binkis",
