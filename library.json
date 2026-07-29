@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "id": "1785327018599",
+      "title": "Senovės Iranėnų Poezija",
+      "author": "",
+      "language": "Lithuanian",
+      "year": "1991",
+      "description": "A section of the Lithuanian anthology Senovės Rytų poezija (Ancient Eastern Poetry), compiled by Sigitas Geda, this chapter presents ancient Iranian (Persian/Avestan) poetry translated into Lithuanian. The broader anthology collects ancient world poetry from civilizations including Egypt, Mesopotamia, India, and Iran.",
+      "genres": [
+        "Poetry",
+        "Anthology",
+        "Ancient Literature"
+      ],
+      "bookTypes": [
+        "Non Fiction",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T12:10:18.599Z"
+    },
+    {
       "id": "1785326936769",
       "title": "Senovės Indijos Poezija",
       "author": "",
