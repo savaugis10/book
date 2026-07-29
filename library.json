@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "id": "1785334706171",
+      "title": "Žingsniai ir laiptai",
+      "author": "Antanas Škėma",
+      "language": "Lithuanian",
+      "year": "2010",
+      "description": "A representative anthology of Lithuanian modernist writer Antanas Škėma (1910–1961), collecting cycles of short stories, a novel, and dramas. The work is considered a symbolic portrayal of an exodus situation and a drama of human existence, written by an author often called the 'Lithuanian Albert Camus.'",
+      "genres": [
+        "Literary Fiction",
+        "Drama",
+        "Modernism"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Prose & Drama"
+      ],
+      "locations": [
+        "Lietuvių literatūra"
+      ],
+      "added": "2026-07-29T14:18:26.171Z"
+    },
+    {
       "id": "1785334702778",
       "title": "Man vėtra sesuo",
       "author": "Kazys Boruta",
