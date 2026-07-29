@@ -1,6 +1,29 @@
 {
   "books": [
     {
+      "id": "1785331906062",
+      "title": "Tykusis Donas 2",
+      "author": "Michailas Šolochovas",
+      "language": "Lithuanian",
+      "year": "1987",
+      "description": "A sweeping epic novel following Cossack Grigory Melekhov and his community along the Don River through WWI, the Russian Revolution, and the Civil War. It explores love, loyalty, and moral ambiguity against the backdrop of Russia's most turbulent historical upheavals.",
+      "genres": [
+        "Historical Fiction",
+        "Epic",
+        "War",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Classic",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T13:31:46.062Z"
+    },
+    {
       "id": "1785331804641",
       "title": "Broliai",
       "author": "Terencijus",
