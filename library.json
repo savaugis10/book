@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "id": "1785334693236",
+      "title": "CHIMEROS AKYS",
+      "author": "JONAS AISTIS",
+      "language": "Lithuanian",
+      "year": "2008",
+      "description": "A selected poetry collection (poezijos rinktinė) by Jonas Aistis (1904–1973), one of Lithuania's most celebrated neoromantic lyric poets, published by Lietuvos Rašytojų Sąjungos Leidykla in Vilnius. The collection draws from Aistis's deeply personal, elegiac verse, characterized by the tension between ideal and reality, intimate emotional expression, and themes of longing and homeland.",
+      "genres": [
+        "Poetry",
+        "Neoromanticism",
+        "Lithuanian Literature"
+      ],
+      "bookTypes": [
+        "Poetry Collection",
+        "Anthology"
+      ],
+      "locations": [
+        "Lietuvių literatūra"
+      ],
+      "added": "2026-07-29T14:18:13.236Z"
+    },
+    {
       "id": "1785333957174",
       "title": "Meilužis",
       "author": "Marguerite Duras",
