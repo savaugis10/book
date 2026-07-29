@@ -1,6 +1,47 @@
 {
   "books": [
     {
+      "id": "1785333932925",
+      "title": "Vakarų fronte nieko naujo",
+      "author": "Erich Maria Remarque",
+      "language": "Lithuanian",
+      "year": "1929",
+      "description": "Told through the eyes of young German soldier Paul Bäumer, the novel depicts the brutal realities of trench warfare during World War I. A landmark of anti-war literature, it explores themes of disillusionment, survival, and the psychological trauma inflicted on a generation of young men.",
+      "genres": [
+        "Anti-War",
+        "Historical Fiction",
+        "Literary Fiction"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Novel"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-29T14:05:32.925Z"
+    },
+    {
+      "id": "1785333931625",
+      "title": "Šuns Širdis",
+      "author": "Michail Bulgakov",
+      "language": "Lithuanian",
+      "year": "2006",
+      "description": "A satirical novella in which a Moscow surgeon transplants human organs into a stray dog, transforming it into a vulgar, bureaucratic man — a sharp critique of Soviet social engineering and the ideals of the October Revolution. Written in 1925, it was banned in the Soviet Union for decades.",
+      "genres": [
+        "Satire",
+        "Science Fiction"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Novella"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-29T14:05:31.625Z"
+    },
+    {
       "id": "1785333929041",
       "title": "Karo šunys",
       "author": "Frederick Forsyth",
