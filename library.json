@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785331796489",
+      "title": "Karys pagyrūnas",
+      "author": "Plautas",
+      "language": "Lithuanian",
+      "year": "1989",
+      "description": "A Roman comedy (originally Miles Gloriosus) by Plautus, in which a vainglorious braggart soldier is outwitted by a clever slave and a courtesan who conspire to free a captive girl and reunite her with her true lover. This is the Lithuanian translation included in the anthology Antikinės komedijos, published by Vaga in Vilnius.",
+      "genres": [
+        "Comedy",
+        "Classics",
+        "Komedija"
+      ],
+      "bookTypes": [
+        "Play",
+        "Ancient Literature",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T13:29:56.489Z"
+    },
+    {
       "id": "1785331793328",
       "title": "Vergas apgavikas",
       "author": "PLAUTAS",
