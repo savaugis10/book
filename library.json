@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "id": "1785333922799",
+      "title": "Pavadinimas",
+      "author": "Juozas Erlickas",
+      "language": "Lithuanian",
+      "year": "2007",
+      "description": "A selected anthology of works by Lithuanian humorist Juozas Erlickas, featuring prose, poetry, and plays infused with absurdist black humor and sharp irony. The collection satirizes Lithuanian social and political life, blending parody and dark comedy in the author's signature style.",
+      "genres": [
+        "Humor",
+        "Satire",
+        "Lithuanian Literature"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Anthology"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-29T14:05:22.799Z"
+    },
+    {
       "id": "1785333916328",
       "title": "Apakimas",
       "author": "Elias Canetti",
