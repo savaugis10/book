@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "id": "1785327522215",
+      "title": "XX a. Rytų Proza",
+      "author": "Lu Sinis, Lao Šė, Riunoskė Akutagava, Jasunaris Kavabata",
+      "language": "Lithuanian",
+      "year": "1986",
+      "description": "A Lithuanian-language anthology of 20th-century Eastern prose, part of the Pasaulinės Literatūros Biblioteka (World Literature Library) series, featuring works by Chinese authors Lu Xun and Lao She and Japanese authors Ryūnosuke Akutagawa and Yasunari Kawabata. Published in Vilnius in 1986, it brings together landmark works of modern Asian literature in translation.",
+      "genres": [
+        "Fiction",
+        "Short Stories",
+        "World Literature"
+      ],
+      "bookTypes": [
+        "Anthology",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T12:18:42.215Z"
+    },
+    {
       "id": "1785327518007",
       "title": "Geismų tramvajus",
       "author": "Tenesis Viljamsas",
