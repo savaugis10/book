@@ -1,6 +1,29 @@
 {
   "books": [
     {
+      "id": "1785332147215",
+      "title": "Apysakos Apsakymai",
+      "author": "Džozefas Konradas, Radjardas Kiplingas",
+      "language": "Lithuanian",
+      "year": "1990",
+      "description": "A Lithuanian-language anthology collecting novellas and short stories by Joseph Conrad and Rudyard Kipling, published as part of the Pasaulinės literatūros biblioteka (World Literature Library) series by Vaga in Vilnius.",
+      "genres": [
+        "Fiction",
+        "Short Stories",
+        "Classic Literature",
+        "Apysaka"
+      ],
+      "bookTypes": [
+        "Anthology",
+        "Short Story Collection",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T13:35:47.215Z"
+    },
+    {
       "id": "1785332142616",
       "title": "ENEIDA",
       "author": "Vergilijus",
