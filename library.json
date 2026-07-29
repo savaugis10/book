@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785331790093",
+      "title": "Bambeklis",
+      "author": "Menandras",
+      "language": "Lithuanian",
+      "year": "1989",
+      "description": "Bambeklis (Dyskolos, or \"The Grouch\") is the only nearly complete surviving comedy by the ancient Greek playwright Menander, following a misanthropic old farmer named Knemon and a young man's efforts to win his daughter's hand in marriage. This Lithuanian edition, translated by Jonas Dumčius, was published in 1989 as part of the \"Pasaulinės literatūros biblioteka\" (World Literature Library) anthology of ancient comedies.",
+      "genres": [
+        "Ancient Comedy",
+        "Classics",
+        "Komedija"
+      ],
+      "bookTypes": [
+        "Play",
+        "Fiction",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T13:29:50.093Z"
+    },
+    {
       "id": "1785331784884",
       "title": "Plutas",
       "author": "Aristofanas",
