@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785325600850",
+      "title": "Eilėraščiai. Poemos / Vieno Miesto Istorija",
+      "author": "Nikolajus Nekrasovas / Michailas Saltykovas-Ščedrinas",
+      "language": "Lithuanian",
+      "year": "1989",
+      "description": "An anthology containing poems and narrative verses by 19th-century Russian poet Nikolai Nekrasov, known for his socially conscious portrayals of peasant life, paired with Mikhail Saltykov-Shchedrin's satirical novel The History of a Town — a grotesque chronicle of the fictional town of Glupov that skewers Russian autocracy and bureaucracy.",
+      "genres": [
+        "Poetry",
+        "Satire",
+        "Classic Literature"
+      ],
+      "bookTypes": [
+        "Anthology",
+        "Fiction",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T11:46:40.850Z"
+    },
+    {
       "id": "1785325541431",
       "title": "Eilėraščiai Poemos",
       "author": "Adomas Mickevičius",
