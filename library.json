@@ -1,6 +1,29 @@
 {
   "books": [
     {
+      "id": "1785332101562",
+      "title": "Apsakymai Apysakos",
+      "author": "Ivanas Buninas, Aleksandras Kuprinas",
+      "language": "Lithuanian",
+      "year": "1989",
+      "description": "A Lithuanian-language anthology collecting short stories and novellas by two celebrated Russian writers, Ivan Bunin and Alexander Kuprin, published as part of the 'Pasaulinės Literatūros Biblioteka' (World Literature Library) series in Vilnius. Both authors were prominent figures in early 20th-century Russian realism, renowned for their richly crafted prose.",
+      "genres": [
+        "Short Fiction",
+        "Classic Literature",
+        "Russian Literature",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Anthology",
+        "Short Stories",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T13:35:01.562Z"
+    },
+    {
       "id": "1785332093325",
       "title": "Motina Artamonovai",
       "author": "Maksimas Gorkis",
