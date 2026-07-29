@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785333948003",
+      "title": "Žodžiai",
+      "author": "Jean-Paul Sartre",
+      "language": "Lithuanian",
+      "year": "1964",
+      "description": "Les Mots (The Words) is Jean-Paul Sartre's 1964 autobiography recounting his childhood and the origins of his vocation as a writer. Divided into two parts — 'Reading' and 'Writing' — it reflects on how he constructed his identity through language and literature, while critically examining his bourgeois upbringing.",
+      "genres": [
+        "Autobiography",
+        "Philosophy",
+        "Memoir"
+      ],
+      "bookTypes": [
+        "Non-Fiction"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-29T14:05:48.003Z"
+    },
+    {
       "id": "1785333946327",
       "title": "Aš ateisiu nusispjauti ant jūsų kapų",
       "author": "Boris Vian",
