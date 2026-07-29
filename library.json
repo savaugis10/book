@@ -1,6 +1,29 @@
 {
   "books": [
     {
+      "id": "1785332142616",
+      "title": "ENEIDA",
+      "author": "Vergilijus",
+      "language": "Lithuanian",
+      "year": "1989",
+      "description": "The Aeneid is a Latin epic poem by Virgil following Aeneas, a Trojan hero who escapes the fall of Troy and journeys across the Mediterranean, destined by fate to found the kingdom that will become Rome. This 1989 Lithuanian edition, published in Vilnius as part of the Pasaulinės Literatūros Biblioteka (World Literature Library) series, was translated from Latin by Antanas Dambrauskas.",
+      "genres": [
+        "Epic Poetry",
+        "Classical Literature",
+        "Mythology"
+      ],
+      "bookTypes": [
+        "Poetry",
+        "Classic",
+        "Translation",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T13:35:42.616Z"
+    },
+    {
       "id": "1785332126277",
       "title": "Džozefo Endriuso ir jo draugo pono Abrahamo Adamso nuotykių istorija,",
       "author": "Henris Fildingas",
