@@ -1,6 +1,29 @@
 {
   "books": [
     {
+      "id": "1785326382706",
+      "title": "Legenda apie Ulenšpygelį ir Lamę Gudzaką",
+      "author": "Šarlis De Kosteras",
+      "language": "Lithuanian",
+      "year": "1989",
+      "description": "A 19th-century Belgian epic novel following the adventures of Thyl Ulenspiegel and his companion Lamme Goedzak, a spirited Flemish trickster who becomes a hero of resistance against Spanish oppression during the Dutch Revolt. The story blends humor, folklore, and tragedy, with Ulenspiegel embodying the indomitable spirit of Flanders. This is a Lithuanian translation published in Vilnius in 1989.",
+      "genres": [
+        "Historical Fiction",
+        "Adventure",
+        "Folklore",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Classic",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T11:59:42.707Z"
+    },
+    {
       "id": "1785326292603",
       "title": "ŠVENTASIS RAŠTAS SENASIS TESTAMENTAS 1",
       "author": "",
