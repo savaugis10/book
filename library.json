@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "id": "1785327388257",
+      "title": "Elektrai skirta gedėti",
+      "author": "Judžinas O'Nilas",
+      "language": "Lithuanian",
+      "year": "1986",
+      "description": "A Lithuanian translation of Eugene O'Neill's 1931 trilogy *Mourning Becomes Electra*, a modernized retelling of Aeschylus's Oresteia set in post-Civil War New England, exploring themes of fate, revenge, and psychological conflict within the Mannon family.",
+      "genres": [
+        "Drama",
+        "Tragedy"
+      ],
+      "bookTypes": [
+        "Play",
+        "Trilogy",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T12:16:28.257Z"
+    },
+    {
       "id": "1785327364114",
       "title": "NEPALAIDOTI MIRUSIEJI",
       "author": "Žanas Polis Sartras",
