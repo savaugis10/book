@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785331799331",
+      "title": "Dvyniai",
+      "author": "PLAUTAS",
+      "language": "Lithuanian",
+      "year": "1989",
+      "description": "A Lithuanian translation of Plautus's Roman comedy Menaechmi, about twin brothers separated in childhood who are reunited after a series of hilarious cases of mistaken identity. The play, which inspired Shakespeare's Comedy of Errors, was published in Vilnius by Vaga as part of the Pasaulinės literatūros biblioteka (World Literature Library) series.",
+      "genres": [
+        "Comedy",
+        "Classics",
+        "Komedija"
+      ],
+      "bookTypes": [
+        "Play",
+        "Fiction",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T13:29:59.331Z"
+    },
+    {
       "id": "1785331796489",
       "title": "Karys pagyrūnas",
       "author": "Plautas",
