@@ -1,6 +1,45 @@
 {
   "books": [
     {
+      "id": "1785333929041",
+      "title": "Karo šunys",
+      "author": "Frederick Forsyth",
+      "language": "Lithuanian",
+      "year": "1974",
+      "description": "A British industrialist discovers a vast platinum deposit in a fictional African country and hires a team of mercenaries to overthrow its despotic ruler. The novel meticulously details the planning, recruitment, and logistics of the coup attempt.",
+      "genres": [
+        "Thriller",
+        "War Fiction",
+        "Adventure"
+      ],
+      "bookTypes": [
+        "Fiction"
+      ],
+      "locations": [],
+      "added": "2026-07-29T14:05:29.041Z"
+    },
+    {
+      "id": "1785333927645",
+      "title": "Badas Panas Viktorija",
+      "author": "Knut Hamsun",
+      "language": "Lithuanian",
+      "year": "1972",
+      "description": "A Lithuanian-language collection of three celebrated novels by Nobel Prize-winning Norwegian author Knut Hamsun: Hunger (Badas), Pan (Panas), and Victoria (Viktorija). The works explore themes of starvation and the human psyche, untamed nature and doomed love, and romantic longing, translated from German by Vytautas Petrauskas.",
+      "genres": [
+        "Literary Fiction",
+        "Psychological Fiction",
+        "Classics"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Anthology"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-29T14:05:27.645Z"
+    },
+    {
       "id": "1785333922799",
       "title": "Pavadinimas",
       "author": "Juozas Erlickas",
