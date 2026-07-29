@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785326752289",
+      "title": "HETITŲ POEZIJA",
+      "author": "Sigitas Geda",
+      "language": "Lithuanian",
+      "year": "1991",
+      "description": "A section of Hittite sacred poetry appearing in the Lithuanian anthology Senovės Rytų poezija (Ancient Eastern Poetry), compiled and translated by Lithuanian poet Sigitas Geda. The anthology brings together masterpieces of ancient Near Eastern poetry — including Sumerian hymns, the Gilgamesh Epic, Hittite texts, and the Song of Songs — translated into Lithuanian. Senoves rytų poezija.",
+      "genres": [
+        "Poetry",
+        "Anthology",
+        "Ancient Literature"
+      ],
+      "bookTypes": [
+        "Poetry Collection",
+        "Translation",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T12:05:52.289Z"
+    },
+    {
       "id": "1785326684787",
       "title": "BABILONIEČIŲ POEZIJA",
       "author": "Sigitas Geda",
