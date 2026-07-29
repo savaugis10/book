@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785326292603",
+      "title": "ŠVENTASIS RAŠTAS SENASIS TESTAMENTAS 1",
+      "author": "",
+      "language": "Lithuanian",
+      "year": "1990",
+      "description": "A Lithuanian-language edition of the Old Testament (Senasis Testamentas), translated from Latin (the Vulgate) by Archbishop Juozapas Jonas Skvireckas. Published in Vilnius in 1990 as part of the Pasaulinės literatūros biblioteka (World Literature Library) series, this is the third edition of Skvireckas's landmark Lithuanian Bible translation.",
+      "genres": [
+        "Religion",
+        "Scripture",
+        "Classic Literature"
+      ],
+      "bookTypes": [
+        "Non Fiction",
+        "Translation",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T11:58:12.603Z"
+    },
+    {
       "id": "1785326244930",
       "title": "Šventasis Raštas: Senasis Testamentas 2",
       "author": "",
