@@ -1,6 +1,107 @@
 {
   "books": [
     {
+      "id": "1785334717476",
+      "title": "Laimingasis",
+      "author": "Juozas Grušas",
+      "language": "Lithuanian",
+      "year": "2011",
+      "description": "A collected volume of dramas, short stories, and novellas by the prominent Lithuanian writer and playwright Juozas Grušas (1901–1986), published as part of the series 'Lietuvių literatūros lobynas. XX amžius' (Treasury of Lithuanian Literature: 20th Century). Grušas's work is known for its moral and existential themes, paradox-driven style, and a blend of tragedy and tragicomedy.",
+      "genres": [
+        "Drama",
+        "Short Stories",
+        "Lithuanian Literature"
+      ],
+      "bookTypes": [
+        "Anthology",
+        "Fiction"
+      ],
+      "locations": [
+        "Lietuvių literatūra"
+      ],
+      "added": "2026-07-29T14:18:37.476Z"
+    },
+    {
+      "id": "1785334716651",
+      "title": "Sodybų tuštėjimo metas",
+      "author": "Jonas Avyžius",
+      "language": "Lithuanian",
+      "year": "2010",
+      "description": "A major Lithuanian novel set against the backdrop of foreign occupation and Soviet-era Lithuania, exploring the existential struggles of the Lithuanian intelligentsia and nation. The work portrays characters forced to choose between collaboration, resistance, and withdrawal amid sweeping historical upheaval.",
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "bookTypes": [
+        "Novel",
+        "Fiction"
+      ],
+      "locations": [
+        "Lietuvių literatūra"
+      ],
+      "added": "2026-07-29T14:18:36.651Z"
+    },
+    {
+      "id": "1785334715768",
+      "title": "Miškais ateina ruduo",
+      "author": "Marius Katiliškis",
+      "language": "Lithuanian",
+      "year": "2006",
+      "description": "A psychological novel set in a forest-surrounded Lithuanian village on the eve of World War II, exploring themes of human fate, love, and the deep connection between people and nature. Some critics consider it the finest prose work ever written in Lithuanian.",
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Novel"
+      ],
+      "locations": [
+        "Lietuvių literatūra"
+      ],
+      "added": "2026-07-29T14:18:35.768Z"
+    },
+    {
+      "id": "1785334714841",
+      "title": "Ir rados stebuklas",
+      "author": "Jonas Biliūnas",
+      "language": "Lithuanian",
+      "year": "2007",
+      "description": "A collection of short stories, a novella, and literary criticism by Jonas Biliūnas (1879–1907), one of the most significant early Lithuanian prose writers, known for his lyrical, empathetic portrayals of rural Lithuanian life and the human condition. Published as part of the \"Lietuvių literatūros lobynas\" (Lithuanian Literature Treasury) series by Lietuvos rašytojų sąjungos leidykla, Vilnius.",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories",
+        "Literary Criticism"
+      ],
+      "bookTypes": [
+        "Collected Works",
+        "Fiction"
+      ],
+      "locations": [
+        "Lietuvių literatūra"
+      ],
+      "added": "2026-07-29T14:18:34.841Z"
+    },
+    {
+      "id": "1785334713912",
+      "title": "Aukso sapnas",
+      "author": "Šatrijos Ragana",
+      "language": "Lithuanian",
+      "year": "2008",
+      "description": "A prose anthology by Šatrijos Ragana (Marija Pečkauskaitė, 1877–1930), one of the most significant Lithuanian prose writers, known for her impressionistic style. The collection includes works considered enduring classics of Lithuanian literature, among them the semi-autobiographical novella 'Sename dvare.'",
+      "genres": [
+        "Literary Fiction",
+        "Classic Literature"
+      ],
+      "bookTypes": [
+        "Prose Collection"
+      ],
+      "locations": [
+        "Lietuvių literatūra"
+      ],
+      "added": "2026-07-29T14:18:33.912Z"
+    },
+    {
       "id": "1785334710184",
       "title": "Grįžo",
       "author": "Antanas Vienuolis",
