@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785332119342",
+      "title": "Apysakos",
+      "author": "Šolom Aleichemas",
+      "language": "Lithuanian",
+      "year": "1987",
+      "description": "A Lithuanian-language collection of short stories by Sholem Aleichem, translated from Yiddish by Dominykas Urbas, published as part of the prestigious Pasaulinės literatūros biblioteka (Library of World Literature) series. The stories depict humorous and poignant scenes of Jewish life in Eastern Europe.",
+      "genres": [
+        "Fiction",
+        "Short Stories",
+        "Jewish Literature",
+        "Apysaka"
+      ],
+      "bookTypes": [
+        "Short Story Collection",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T13:35:19.342Z"
+    },
+    {
       "id": "1785332101562",
       "title": "Apsakymai Apysakos",
       "author": "Ivanas Buninas, Aleksandras Kuprinas",
