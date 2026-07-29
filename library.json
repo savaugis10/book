@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785327518007",
+      "title": "Geismų tramvajus",
+      "author": "Tenesis Viljamsas",
+      "language": "Lithuanian",
+      "year": "1986",
+      "description": "A Lithuanian translation of Tennessee Williams's Pulitzer Prize-winning play A Streetcar Named Desire, subtitled 'a play in eleven scenes.' It follows the faded Southern belle Blanche DuBois as she moves in with her sister in New Orleans and clashes violently with her brutish brother-in-law Stanley Kowalski.",
+      "genres": [
+        "Drama",
+        "Southern Gothic",
+        "Classic"
+      ],
+      "bookTypes": [
+        "Play",
+        "Translated Fiction",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T12:18:38.007Z"
+    },
+    {
       "id": "1785327388257",
       "title": "Elektrai skirta gedėti",
       "author": "Judžinas O'Nilas",
