@@ -1,6 +1,46 @@
 {
   "books": [
     {
+      "id": "1785333946327",
+      "title": "Aš ateisiu nusispjauti ant jūsų kapų",
+      "author": "Boris Vian",
+      "language": "Lithuanian",
+      "year": "1946",
+      "description": "Originally published in French in 1946 under the pseudonym Vernon Sullivan, this provocative noir novel follows a light-skinned Black man who infiltrates a small Southern American town to exact violent revenge for his brother's lynching. The book caused a scandal in France and was later revealed to have been written by Vian himself.",
+      "genres": [
+        "Roman Noir",
+        "Crime Fiction"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Novel"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-29T14:05:46.327Z"
+    },
+    {
+      "id": "1785333945103",
+      "title": "Amerika (Pražuvėlis) / Laiškas tėvui",
+      "author": "Franz Kafka",
+      "language": "Lithuanian",
+      "year": "2006",
+      "description": "This Lithuanian volume combines two of Kafka's major works: Amerika (Pražuvėlis) — his unfinished first novel about young Karl Rossmann, banished to America by his parents and swept into strange picaresque misadventures — and Laiškas tėvui (Letter to His Father), Kafka's deeply personal 1919 letter examining his lifelong fear of his domineering father and the psychological toll of their fraught relationship.",
+      "genres": [
+        "Literary Fiction",
+        "Autobiography"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Non Fiction"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-29T14:05:45.103Z"
+    },
+    {
       "id": "1785333943131",
       "title": "Iš Afrikos",
       "author": "Karen Blixen",
