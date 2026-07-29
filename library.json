@@ -364,7 +364,9 @@
       "bookTypes": [
         "Fiction"
       ],
-      "locations": [],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
       "added": "2026-07-29T14:05:29.041Z"
     },
     {
