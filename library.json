@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785327204516",
+      "title": "XX a. Vakarų Dramos",
+      "author": "",
+      "language": "Lithuanian",
+      "year": "1986",
+      "description": "An anthology collecting the most significant works of prominent 20th-century Western playwrights, including J. Cocteau, B. Brecht, L. Pirandello, J.M. Synge, J.-P. Sartre, E. O'Neill, and T. Williams. Published as part of the Lithuanian \"Pasaulinės Literatūros Biblioteka\" (World Literature Library) series by Vaga publishing house.",
+      "genres": [
+        "Drama",
+        "Anthology",
+        "World Literature"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Anthology",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T12:13:24.516Z"
+    },
+    {
       "id": "1785327087370",
       "title": "Kinų poezija",
       "author": "",
