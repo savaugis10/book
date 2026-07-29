@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785333907346",
+      "title": "Iš Afrikos",
+      "author": "KAREN BLIXEN",
+      "language": "Lithuanian",
+      "year": "2006",
+      "description": "A lyrical memoir recounting Karen Blixen's eighteen years living on a coffee plantation in Kenya, then British East Africa. It reflects on her deep bond with the African landscape, its people, and her love for adventurer Denys Finch-Hatton.",
+      "genres": [
+        "Memoir",
+        "Non Fiction",
+        "Travel"
+      ],
+      "bookTypes": [
+        "Non Fiction"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-29T14:05:07.346Z"
+    },
+    {
       "id": "1785333903010",
       "title": "Tykusis amerikietis",
       "author": "Graham Greene",
