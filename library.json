@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "id": "1785334698997",
+      "title": "Moderniškas Pavasaris",
+      "author": "Kazys Binkis",
+      "language": "Lithuanian",
+      "year": "2011",
+      "description": "A selected works anthology of Kazys Binkis (1893–1942), the pioneer of Lithuanian avant-garde literature, featuring his innovative poetry collection '100 Pavasarių' and other poems, as well as dramas including 'Atžalynas' and 'Generalinė repeticija'. Published as the 23rd volume in the 'Lietuvių literatūros lobynas. XX amžius' (Lithuanian Literary Treasury: 20th Century) series by Lietuvos rašytojų sąjungos leidykla, Vilnius.",
+      "genres": [
+        "Poetry",
+        "Drama",
+        "Lithuanian Literature"
+      ],
+      "bookTypes": [
+        "Anthology",
+        "Poetry Collection"
+      ],
+      "locations": [
+        "Lietuvių literatūra"
+      ],
+      "added": "2026-07-29T14:18:18.997Z"
+    },
+    {
       "id": "1785334697658",
       "title": "Graži tu mano",
       "author": "Maironis",
