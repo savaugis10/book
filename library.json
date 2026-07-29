@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785331781590",
+      "title": "Varlės",
+      "author": "Aristofanas",
+      "language": "Lithuanian",
+      "year": "1989",
+      "description": "A Lithuanian translation of Aristophanes' ancient Greek comedy *The Frogs* (405 BC), in which the god Dionysus descends to the underworld to bring back a great tragic poet to save Athenian theater. The play culminates in a literary contest between Aeschylus and Euripides, making it one of the earliest works of literary criticism in Western tradition.",
+      "genres": [
+        "Comedy",
+        "Classics",
+        "Komedija"
+      ],
+      "bookTypes": [
+        "Play",
+        "Translation",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T13:29:41.590Z"
+    },
+    {
       "id": "1785331777868",
       "title": "Taika",
       "author": "ARISTOFANAS",
