@@ -1,6 +1,29 @@
 {
   "books": [
     {
+      "id": "1785332126277",
+      "title": "Džozefo Endriuso ir jo draugo pono Abrahamo Adamso nuotykių istorija,",
+      "author": "Henris Fildingas",
+      "language": "Lithuanian",
+      "year": "1988",
+      "description": "A Lithuanian translation of Henry Fielding's 1742 comic novel following the virtuous young footman Joseph Andrews and his companion Parson Adams on a picaresque journey from London back to the countryside, filled with misadventures, social satire, and commentary on hypocrisy and virtue. The title page notes it was written in the style of Cervantes, the author of Don Quixote.",
+      "genres": [
+        "Satire",
+        "Picaresque",
+        "Classic Fiction",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Novel",
+        "Fiction",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T13:35:26.277Z"
+    },
+    {
       "id": "1785332119342",
       "title": "Apysakos",
       "author": "Šolom Aleichemas",
