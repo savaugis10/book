@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "id": "1785327364114",
+      "title": "NEPALAIDOTI MIRUSIEJI",
+      "author": "Žanas Polis Sartras",
+      "language": "Lithuanian",
+      "year": "1986",
+      "description": "A four-act play set during World War II and the French Resistance movement, in which a group of partisans captured after a failed operation face physical and psychological torture. The play explores existentialist themes of fear, choice, and human resilience in extreme, borderline situations.",
+      "genres": [
+        "Drama",
+        "Existentialism",
+        "War"
+      ],
+      "bookTypes": [
+        "Play",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T12:16:04.114Z"
+    },
+    {
       "id": "1785327310841",
       "title": "HENRIKAS IV",
       "author": "Luidžis Pirandelas",
