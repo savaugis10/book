@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785326621016",
+      "title": "ŠUMERO POEZIJA",
+      "author": "",
+      "language": "Lithuanian",
+      "year": "1991",
+      "description": "A section of Sumerian poetry from the Lithuanian anthology Senovės Rytų poezija (Ancient Eastern Poetry), compiled by Sigitas Geda and published by Vaga in 1991. The anthology gathers ancient world poetry dating from the 27th–24th centuries BCE, including Egyptian, Sumerian, Babylonian, Hittite, ancient Hebrew, Indian, Chinese, and Japanese literary monuments.",
+      "genres": [
+        "Poetry",
+        "Ancient Literature",
+        "Anthology"
+      ],
+      "bookTypes": [
+        "Non Fiction",
+        "Poetry Collection",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T12:03:41.016Z"
+    },
+    {
       "id": "1785326553650",
       "title": "SENOVĖS EGIPTO POEZIJA",
       "author": "",
