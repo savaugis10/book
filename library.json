@@ -1,6 +1,29 @@
 {
   "books": [
     {
+      "id": "1785331784884",
+      "title": "Plutas",
+      "author": "Aristofanas",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "Plutas (Plutus) is Aristophanes' last surviving comedic play, first produced in 388 BC, in which an Athenian farmer named Chremylos encounters Plutus, the blind god of wealth, and schemes to restore his sight — satirizing the unequal distribution of wealth and power in Athenian society.",
+      "genres": [
+        "Ancient Greek Comedy",
+        "Political Satire",
+        "Komedija"
+      ],
+      "bookTypes": [
+        "Play",
+        "Classic",
+        "Fiction",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T13:29:44.884Z"
+    },
+    {
       "id": "1785331781590",
       "title": "Varlės",
       "author": "Aristofanas",
