@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785326553650",
+      "title": "SENOVĖS EGIPTO POEZIJA",
+      "author": "",
+      "language": "Lithuanian",
+      "year": "1991",
+      "description": "A Lithuanian-language collection of poetry from ancient Egypt, published as part of the Pasaulinės literatūros biblioteka (World Literature Library) series. It gathers poetic monuments spanning hymns, religious texts, and lyrical works from one of the world's oldest literary traditions. Senoves rytų poezija.",
+      "genres": [
+        "Poetry",
+        "Ancient Literature",
+        "Anthology"
+      ],
+      "bookTypes": [
+        "Non Fiction",
+        "Anthology",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T12:02:33.650Z"
+    },
+    {
       "id": "1785326419029",
       "title": "Senovės Rytų Poezija",
       "author": "",
