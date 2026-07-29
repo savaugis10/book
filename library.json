@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785331801965",
+      "title": "Amfitrionas",
+      "author": "PLAUTAS",
+      "language": "Lithuanian",
+      "year": "1989",
+      "description": "A Lithuanian translation of Plautus's ancient Roman comedy *Amphitryon* (c. 185 BCE), in which Jupiter disguises himself as the Theban general Amphitryon to seduce his wife Alcmena, leading to a series of comic misunderstandings involving mistaken identity and divine trickery. Published in the *Pasaulinės literatūros biblioteka* (World Literature Library) series by Vaga, Vilnius, 1989.",
+      "genres": [
+        "Comedy",
+        "Classical Antiquity",
+        "Komedija"
+      ],
+      "bookTypes": [
+        "Play",
+        "Translation",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T13:30:01.965Z"
+    },
+    {
       "id": "1785331799331",
       "title": "Dvyniai",
       "author": "PLAUTAS",
