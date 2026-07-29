@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785331804641",
+      "title": "Broliai",
+      "author": "Terencijus",
+      "language": "Lithuanian",
+      "year": "1981",
+      "description": "A Lithuanian translation of the Roman playwright Terence's Adelphoe (The Brothers), a verse comedy first performed in 160 BC exploring contrasting approaches to raising children. The play is considered Terence's masterpiece and examines themes of parenting, freedom, and human nature.",
+      "genres": [
+        "Comedy",
+        "Classic",
+        "Komedija"
+      ],
+      "bookTypes": [
+        "Play",
+        "Translation",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T13:30:04.641Z"
+    },
+    {
       "id": "1785331801965",
       "title": "Amfitrionas",
       "author": "PLAUTAS",
