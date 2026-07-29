@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785325541431",
+      "title": "Eilėraščiai Poemos",
+      "author": "Adomas Mickevičius",
+      "language": "Lithuanian",
+      "year": "1987",
+      "description": "A Lithuanian-language collection of the most significant lyric poems, ballads, and epic poems by the renowned Polish Romantic poet Adam Mickiewicz, including works such as 'Konradas Valenrodas' and 'Ponas Tadas'. Compiled by Justinas Marcinkevičius and published by Vaga, Vilnius, as part of the Pasaulinės Literatūros Biblioteka (World Literature Library) series.",
+      "genres": [
+        "Poetry",
+        "Romanticism"
+      ],
+      "bookTypes": [
+        "Poetry Collection",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T11:45:41.431Z"
+    },
+    {
       "id": "1785081768335",
       "title": "MOBI DIKAS, ARBA BANGINIS",
       "author": "Hermanas Melvilis",
