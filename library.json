@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785325669393",
+      "title": "DRINOS TILTAS / ANT PROTO RIBOS",
+      "author": "Ivas Andričius / Miroslavas Krleža",
+      "language": "Lithuanian",
+      "year": "1988",
+      "description": "An anthology of two South Slavic novels in Lithuanian translation: Ivo Andrić's Nobel Prize-winning epic chronicling four centuries of Bosnian history through the life of a stone bridge on the Drina River, and Miroslav Krleža's 1938 satirical novel following a middle-aged lawyer whose life unravels after he blurts out an honest thought at a party, exposing the chasm between conformity and individuality.",
+      "genres": [
+        "Historical Fiction",
+        "Literary Fiction",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Anthology",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T11:47:49.393Z"
+    },
+    {
       "id": "1785325632772",
       "title": "Absalomai, Absalomai!",
       "author": "Viljamas Folkneris",
