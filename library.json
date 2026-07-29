@@ -1,6 +1,29 @@
 {
   "books": [
     {
+      "id": "1785332180064",
+      "title": "KALEVALA",
+      "author": "JUSTINAS MARCINKEVIČIUS",
+      "language": "Lithuanian",
+      "year": "1986",
+      "description": "The Kalevala is the Finnish national epic, compiled by Elias Lönnrot from oral folk songs and mythology, telling of the world's creation and legendary heroes such as Väinämöinen. This is the Lithuanian translation by poet Justinas Marcinkevičius, published in Vilnius in 1986 as part of the Pasaulinės Literatūros Biblioteka (World Literature Library) series.",
+      "genres": [
+        "Epic Poetry",
+        "Mythology",
+        "Folklore"
+      ],
+      "bookTypes": [
+        "Poetry",
+        "Translation",
+        "Classic",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T13:36:20.064Z"
+    },
+    {
       "id": "1785332152601",
       "title": "Badas. Panas",
       "author": "Knutas Hamsunas",
