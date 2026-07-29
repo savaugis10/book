@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "id": "1785333935459",
+      "title": "Pornografija",
+      "author": "Witold Gombrowicz",
+      "language": "Lithuanian",
+      "year": "1960",
+      "description": "Set in Nazi-occupied Poland during World War II, the novel follows two middle-aged Warsaw intellectuals who travel to a countryside manor and become obsessively fixated on two young locals, ultimately drawing them into a dark scheme of manipulation and violence. Originally published in Polish in 1960, this is a Lithuanian translation by Skirmantė Kristina Ramanauskaitė, published by Lietuvos rytas.",
+      "genres": [
+        "Literary Fiction",
+        "War Fiction",
+        "Modernist"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Novel"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-29T14:05:35.459Z"
+    },
+    {
+      "id": "1785333934287",
+      "title": "Moteris smėlynuose",
+      "author": "Kobo Abe",
+      "language": "Lithuanian",
+      "year": "1962",
+      "description": "An amateur entomologist on a seaside trip finds himself trapped at the bottom of a vast sand pit with a young woman, forced to endlessly shovel back the encroaching dunes that threaten to bury their village. This acclaimed existential novel explores themes of identity, freedom, and the human condition.",
+      "genres": [
+        "Literary Fiction",
+        "Existentialism",
+        "Absurdist"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Novel"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-29T14:05:34.287Z"
+    },
+    {
       "id": "1785333932925",
       "title": "Vakarų fronte nieko naujo",
       "author": "Erich Maria Remarque",
