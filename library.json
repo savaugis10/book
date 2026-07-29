@@ -1,6 +1,109 @@
 {
   "books": [
     {
+      "id": "1785333957174",
+      "title": "Meilužis",
+      "author": "Marguerite Duras",
+      "language": "Lithuanian",
+      "year": "1984",
+      "description": "A semi-autobiographical novel set in French colonial Indochina, recounting a passionate and clandestine affair between a young French adolescent girl and a wealthy older Chinese man. It won the Prix Goncourt in 1984 and has been translated into 43 languages.",
+      "genres": [
+        "Literary Fiction",
+        "Autobiographical Fiction"
+      ],
+      "bookTypes": [
+        "Novel"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-29T14:05:57.174Z"
+    },
+    {
+      "id": "1785333956319",
+      "title": "Triukšmas ir įniršis",
+      "author": "William Faulkner",
+      "language": "Lithuanian",
+      "year": "1929",
+      "description": "A landmark modernist novel that chronicles the decline and disintegration of the aristocratic Compson family in the American South, told through the interior monologues of three brothers and a fourth-person narrator. First published in 1929, this Lithuanian edition (translated by Violeta Tauragienė) is renowned for its innovative stream-of-consciousness technique and nonlinear narrative structure.",
+      "genres": [
+        "Modernist Fiction",
+        "Southern Gothic",
+        "Literary Fiction"
+      ],
+      "bookTypes": [
+        "Novel",
+        "Classic"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-29T14:05:56.319Z"
+    },
+    {
+      "id": "1785333955414",
+      "title": "Žvaigždės spindi danguje",
+      "author": "SIDNEY SHELDON",
+      "language": "Lithuanian",
+      "year": "2007",
+      "description": "The story of Lara Cameron, a self-made billionaire and real estate tycoon who rises from a troubled past to build a glamorous business empire, only to find her fortune, fame, and love suddenly and shockingly imperiled. Originally published in English in 1992, this is the Lithuanian translation by Laima Račienė.",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Fiction"
+      ],
+      "bookTypes": [
+        "Novel",
+        "Fiction"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-29T14:05:55.414Z"
+    },
+    {
+      "id": "1785333954452",
+      "title": "Prisukamas apelsinas",
+      "author": "Anthony Burgess",
+      "language": "Lithuanian",
+      "year": "2007",
+      "description": "A Clockwork Orange follows Alex, a teenage gang leader in a near-future dystopian society, who narrates his violent exploits in an invented slang called Nadsat. After being imprisoned and subjected to state-sponsored psychological conditioning, the novel raises profound questions about free will, morality, and the ethics of behavior modification.",
+      "genres": [
+        "Dystopian Fiction",
+        "Science Fiction",
+        "Classic"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Novel"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-29T14:05:54.452Z"
+    },
+    {
+      "id": "1785333953534",
+      "title": "Aušros pažadas",
+      "author": "Romain Gary",
+      "language": "Lithuanian",
+      "year": "2007",
+      "description": "A semi-autobiographical account in which Romain Gary recounts his childhood in Eastern Europe and his adventurous path to becoming a WWII pilot, diplomat, and celebrated French writer, all shaped by his mother's fierce, unconditional ambition for him. Originally published in French as 'La promesse de l'aube' in 1960, this Lithuanian edition was translated by Violeta Tauragienė.",
+      "genres": [
+        "Autobiography",
+        "Literary Fiction",
+        "Memoir"
+      ],
+      "bookTypes": [
+        "Non Fiction",
+        "Memoir"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-29T14:05:53.534Z"
+    },
+    {
       "id": "1785333952295",
       "title": "Stepių vilkas",
       "author": "Hermann Hesse",
