@@ -1,6 +1,29 @@
 {
   "books": [
     {
+      "id": "1785331777868",
+      "title": "Taika",
+      "author": "ARISTOFANAS",
+      "language": "Lithuanian",
+      "year": "1989",
+      "description": "A Lithuanian translation of Aristophanes' ancient Greek comedy Peace (421 BCE), in which a farmer named Trygaeus rides a dung beetle to the heavens to free the goddess of peace from her cave. The play was written to urge an end to the Peloponnesian War and joyously anticipates a return to peaceful rural life.",
+      "genres": [
+        "Comedy",
+        "Ancient Greek",
+        "Komedija"
+      ],
+      "bookTypes": [
+        "Play",
+        "Classic",
+        "Translation",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T13:29:37.868Z"
+    },
+    {
       "id": "1785331773427",
       "title": "Debesys",
       "author": "Aristofanas",
