@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785326419029",
+      "title": "Senovės Rytų Poezija",
+      "author": "",
+      "language": "Lithuanian",
+      "year": "1991",
+      "description": "A Lithuanian-language anthology compiled by Sigitas Geda, collecting ancient Eastern poetry spanning from the 27th–24th centuries BC, including literary monuments from Egyptian, Sumerian, Babylonian, Hittite, ancient Jewish, Indian, Chinese, and Japanese traditions. Published in Vilnius in 1991 as part of the Pasaulinės Literatūros Biblioteka (World Literature Library) series.",
+      "genres": [
+        "Poetry",
+        "Anthology",
+        "Ancient Literature"
+      ],
+      "bookTypes": [
+        "Non Fiction",
+        "Anthology",
+        "Plb"
+      ],
+      "locations": [
+        "Plb"
+      ],
+      "added": "2026-07-29T12:00:19.029Z"
+    },
+    {
       "id": "1785326382706",
       "title": "Legenda apie Ulenšpygelį ir Lamę Gudzaką",
       "author": "Šarlis De Kosteras",
