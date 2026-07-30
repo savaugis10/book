@@ -1,6 +1,44 @@
 {
   "books": [
     {
+      "id": "1785424434339",
+      "title": "KAMIU",
+      "author": "ALBERAS",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A Lithuanian literary work that appears to be a novel or collection of stories, as indicated by the subtitle 'SVETIMAS KRYTIS' (meaning 'Foreign/Strange Cross' or similar). The book was recognized with the Nobel Prize for Literature, suggesting it is a significant work of Lithuanian literature.",
+      "genres": [
+        "Fiction",
+        "Literary"
+      ],
+      "bookTypes": [
+        "Fiction"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:13:54.339Z"
+    },
+    {
+      "id": "1785424432381",
+      "title": "ANGELAI IR DEMONAI",
+      "author": "DAN BROWN",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A mystery thriller involving angels and demons, featuring symbology and religious intrigue. The story follows a protagonist uncovering secrets hidden within religious institutions and art.",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "bookTypes": [
+        "Fiction"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:13:52.381Z"
+    },
+    {
       "id": "1785424430462",
       "title": "IŠKODUOTI DA VINČIO KODĄ",
       "author": "SHARAN NEWMAN",
