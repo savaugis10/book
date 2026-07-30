@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785423700907",
+      "title": "KARMOS DIAGNOSTIKA 2",
+      "author": "SERGEJUS LAZAREVAS",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A three-volume work on karma diagnosis and spiritual understanding. The book appears to explore karmic principles and their diagnostic applications in personal development.",
+      "genres": [
+        "Spirituality",
+        "Self-help",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non-fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:01:40.907Z"
+    },
+    {
       "id": "1785423684853",
       "title": "KARMOS DIAGNOSTIKA",
       "author": "SERGEJUS LAZAREVAS",
