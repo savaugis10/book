@@ -1,6 +1,44 @@
 {
   "books": [
     {
+      "id": "1785424454856",
+      "title": "BERNARDAS ŠO",
+      "author": "EMRIS HIUZAS",
+      "language": "Lithuanian",
+      "year": "1973",
+      "description": "A Lithuanian literary work translated from Russian by Jeronimas Šalcionas, published in Vilnius in 1973.",
+      "genres": [
+        "Drama",
+        "Fiction"
+      ],
+      "bookTypes": [
+        "Fiction"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:14:14.856Z"
+    },
+    {
+      "id": "1785424453705",
+      "title": "VIENUOLIKA MINUČIŲ",
+      "author": "Paulo Coelho",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A novel by Paulo Coelho translated into Lithuanian, exploring themes through a narrative set within an eleven-minute timeframe.",
+      "genres": [
+        "Fiction",
+        "Philosophical"
+      ],
+      "bookTypes": [
+        "Novel"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:14:13.705Z"
+    },
+    {
       "id": "1785424452139",
       "title": "Stepių vilkas",
       "author": "Hermanas Hesė",
