@@ -1,6 +1,25 @@
 {
   "books": [
     {
+      "id": "1785422771373",
+      "title": "ПОСЛЕДНИЙ ЗАВЕТ",
+      "author": "",
+      "language": "Russian",
+      "year": "",
+      "description": "A religious text featuring Orthodox Christian imagery with a cross at its center, likely a collection of biblical passages or religious teachings from the New Testament tradition.",
+      "genres": [
+        "Religious",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Religious Text"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:46:11.373Z"
+    },
+    {
       "id": "1785422767331",
       "title": "Breakthrough in SAMATHA MEDITATION and VIPASSANĀ MEDITATION",
       "author": "Pa-auk Tawya Sayadaw and Dr. Mehm Tin Mon",
