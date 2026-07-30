@@ -1,6 +1,46 @@
 {
   "books": [
     {
+      "id": "1785423722774",
+      "title": "Ażminyobes · desmail",
+      "author": "RYUHO OKAWA",
+      "language": "Amharic",
+      "year": "",
+      "description": "A spiritual and philosophical work by Ryuho Okawa focused on personal transformation and enlightenment through understanding higher consciousness and universal principles.",
+      "genres": [
+        "Spirituality",
+        "Self-help",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non-Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:02:02.774Z"
+    },
+    {
+      "id": "1785423720688",
+      "title": "PAKSIKITTE AVO GYVENIMATI PAKEISKI TE PASALI",
+      "author": "Ryuho Okawa",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A guide to botanical knowledge and everyday wisdom, discussing how plants and nature relate to human life and well-being.",
+      "genres": [
+        "Spirituality",
+        "Self-help",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non-fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:02:00.688Z"
+    },
+    {
       "id": "1785423718295",
       "title": "Gyvo mirusiojo laiškąt",
       "author": "ELZA BARKER",
