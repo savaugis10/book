@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785423713303",
+      "title": "ROZENKREICERIU VISATOS IR ŽMOGAUS SAMPRATA",
+      "author": "Max Heindel",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A work exploring the worldview and understanding of humanity from a Rosicrucian perspective, examining mankind's place in the universe and spiritual evolution.",
+      "genres": [
+        "Philosophy",
+        "Spirituality",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:01:53.303Z"
+    },
+    {
       "id": "1785423710800",
       "title": "ROZENKRUCERUS VISATOS IR ŽMOGAUS SAMPRATA",
       "author": "Max Heindel",
