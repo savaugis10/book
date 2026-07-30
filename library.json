@@ -1,6 +1,81 @@
 {
   "books": [
     {
+      "id": "1785424445080",
+      "title": "KOL TAVE RASILU",
+      "author": "JOHN IRVING",
+      "language": "Estonian",
+      "year": "",
+      "description": "A novel by John Irving translated into Estonian, featuring a distinctive heart design with a banner on the cover.",
+      "genres": [
+        "Fiction"
+      ],
+      "bookTypes": [
+        "Novel"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:14:05.080Z"
+    },
+    {
+      "id": "1785424443342",
+      "title": "Ta pati upė",
+      "author": "Jaan Kaplinski",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A collection of poetry by Estonian author Jaan Kaplinski, translated into Lithuanian by Danutė Sirijos Giraitė. The work explores themes of nature, time, and human experience through poetic verse.",
+      "genres": [
+        "Poetry",
+        "Contemporary Literature"
+      ],
+      "bookTypes": [
+        "Poetry"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:14:03.342Z"
+    },
+    {
+      "id": "1785424441683",
+      "title": "ŽEMĖ ŽMONIŲ PLANETA",
+      "author": "Antuanas de Sent-Eziuperi",
+      "language": "Lithuanian",
+      "year": "1992",
+      "description": "A philosophical novel exploring human existence and our relationship with the planet Earth, originally written by Antoine de Saint-Exupéry.",
+      "genres": [
+        "Fiction",
+        "Philosophy"
+      ],
+      "bookTypes": [
+        "Novel"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:14:01.683Z"
+    },
+    {
+      "id": "1785424439874",
+      "title": "BERGMAN",
+      "author": "INGMAR",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A collection of three works about or related to filmmaker Ingmar Bergman, including 'Žemuogių pievėlė' (Strawberry Meadow), 'Sekmadieno vaikas' (Sunday Child), and 'Rudens sonata' (Autumn Sonata).",
+      "genres": [
+        "Biography",
+        "Cinema"
+      ],
+      "bookTypes": [
+        "Non Fiction"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:13:59.874Z"
+    },
+    {
       "id": "1785424438049",
       "title": "KALNO ŠEŠĖLIS",
       "author": "GREGORY DAVID ROBERTS",
