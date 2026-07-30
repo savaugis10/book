@@ -1,6 +1,20 @@
 {
   "books": [
     {
+      "id": "1785421661277",
+      "title": "LIKIMO VALDYMO GALIMYBĖS TRANSERIFINGAS I paruopa vartotojui erdė",
+      "author": "Vaidin Zeland",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "",
+      "genres": [],
+      "bookTypes": [],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:27:41.277Z"
+    },
+    {
       "id": "1785421600824",
       "title": "Тренировка тела и духа",
       "author": "Миrzakarim Норбеков",
