@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "id": "1785417832217",
+      "title": "Kaip prižiūrėti katę",
+      "author": "Andrew Edney, David Taylor",
+      "language": "Lithuanian",
+      "year": "1997",
+      "description": "A Lithuanian-language edition of the '101 Essential Tips: Cat Care' guide by Dorling Kindersley, covering practical advice on choosing, feeding, grooming, training, and caring for cats. Published by Alma Littera in Vilnius in 1997.",
+      "genres": [
+        "Pets",
+        "Non Fiction",
+        "Reference"
+      ],
+      "bookTypes": [
+        "Non Fiction",
+        "Guide"
+      ],
+      "locations": [
+        "Pasaulio publicistinė literatūra"
+      ],
+      "added": "2026-07-30T13:23:52.217Z"
+    },
+    {
+      "id": "1785417831006",
+      "title": "1000 TIESOS AKIBROKŠTŲ",
+      "author": "Christa Poppelmann",
+      "language": "Lithuanian",
+      "year": "2007",
+      "description": "A Lithuanian-language edition of Christa Poppelmann's work debunking 1,000 widely held misconceptions and myths across various fields of knowledge. Originally published in German, it covers topics ranging from science and history to culture and religion.",
+      "genres": [
+        "General Knowledge",
+        "Non-Fiction",
+        "Trivia"
+      ],
+      "bookTypes": [
+        "Non-Fiction",
+        "Reference"
+      ],
+      "locations": [
+        "Pasaulio publicistinė literatūra"
+      ],
+      "added": "2026-07-30T13:23:51.006Z"
+    },
+    {
       "id": "1785334717476",
       "title": "Laimingasis",
       "author": "Juozas Grušas",
