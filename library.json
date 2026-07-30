@@ -1,6 +1,46 @@
 {
   "books": [
     {
+      "id": "1785422749477",
+      "title": "ОСВОБОЖДЕНИЕ",
+      "author": "Дмитрий Верищагин",
+      "language": "Russian",
+      "year": "2001",
+      "description": "A system of further energoinformational development, first level. This book presents a methodology for personal development and consciousness expansion based on energoinformational principles.",
+      "genres": [
+        "Self-help",
+        "Personal Development",
+        "Komedija"
+      ],
+      "bookTypes": [
+        "Non-Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:45:49.477Z"
+    },
+    {
+      "id": "1785422747438",
+      "title": "SECOND SIGHT",
+      "author": "DR. OOUR OF A SENSE MAVERICK—USE TODAY",
+      "language": "English",
+      "year": "",
+      "description": "An intuitive psychiatrist tells how to tap your own inner wisdom. The book explores how to develop and use your own intuitive psychic abilities for personal growth and decision-making.",
+      "genres": [
+        "Self-Help",
+        "Psychology",
+        "Komedija"
+      ],
+      "bookTypes": [
+        "Non-Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:45:47.439Z"
+    },
+    {
       "id": "1785422744960",
       "title": "PRACTICAL VIPASSANĀ MEDITATIONAL EXERCISE",
       "author": "MAHASI SAYADAW",
