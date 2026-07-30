@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "id": "1785422762920",
+      "title": "VIPPASSANA SPIRITUAL INSIGHT",
+      "author": "SAYABAW",
+      "language": "English",
+      "year": "",
+      "description": "A discourse on Vipassana meditation and spiritual insight, translated by Dr. Ko Gyi. The book presents teachings on the venerable Maha Sayadaw's approach to Buddhist spiritual practice.",
+      "genres": [
+        "Spirituality",
+        "Buddhism",
+        "Self-Help",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non-Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:46:02.920Z"
+    },
+    {
       "id": "1785422756966",
       "title": "PURPOSE OF PRACTISING KAMMATTHANA MEDITATION",
       "author": "The Venerable Mahāsi Sayādaw of Myanmar",
