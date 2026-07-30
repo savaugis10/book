@@ -1,6 +1,25 @@
 {
   "books": [
     {
+      "id": "1785423724925",
+      "title": "DU GYVENIMAL",
+      "author": "I Lalis",
+      "language": "Lithuanian",
+      "year": "1998",
+      "description": "A Lithuanian literary work exploring themes of life and existence. The book appears to be published in Kansas, Cvisuoka in 1998.",
+      "genres": [
+        "Fiction",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Novel"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:02:04.925Z"
+    },
+    {
       "id": "1785423722774",
       "title": "Ażminyobes · desmail",
       "author": "RYUHO OKAWA",
