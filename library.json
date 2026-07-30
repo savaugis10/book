@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785423707365",
+      "title": "ROZENKREUCIERY IR ŽMOGAUS SAMPRATA",
+      "author": "Max Heindel",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A work exploring Rosicrucian philosophy and its conception of humanity, examining esoteric teachings about human nature and spiritual development.",
+      "genres": [
+        "Philosophy",
+        "Spirituality",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:01:47.365Z"
+    },
+    {
       "id": "1785423700907",
       "title": "KARMOS DIAGNOSTIKA 2",
       "author": "SERGEJUS LAZAREVAS",
