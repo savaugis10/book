@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785422788696",
+      "title": "VLADIMIRAS AZANOVAS AIŠKIAREGYSTĖS LABIRINTUOSE: reinkarnacija, poltergeistai, sveikata, magija, karma, meilė, Jaro...",
+      "author": "Feliksas MARCINKAS",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A book exploring the mystical labyrinth of Vladimir Azanov's clairvoyance, covering topics such as reincarnation, poltergeists, health, magic, karma, and love. Approved by Lithuanian journalists and edited by Vladimir Azanov.",
+      "genres": [
+        "Spirituality",
+        "Paranormal",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non-Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:46:28.696Z"
+    },
+    {
       "id": "1785422782405",
       "title": "KAIP įveikti stresą ir pradėti gyventi",
       "author": "DEILAS KARNEGIS",
