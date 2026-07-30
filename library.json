@@ -1,6 +1,44 @@
 {
   "books": [
     {
+      "id": "1785422721897",
+      "title": "Послания с небес",
+      "author": "Учения Вознесенных Владык",
+      "language": "Russian",
+      "year": "",
+      "description": "A collection of surprising revelations about life after death and the future of Earth, presented as teachings from Ascended Masters.",
+      "genres": [
+        "Spiritual",
+        "Metaphysical"
+      ],
+      "bookTypes": [
+        "Non-Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:45:21.897Z"
+    },
+    {
+      "id": "1785422719760",
+      "title": "КАК ЖИТЬ",
+      "author": "Т.Н. ЗЮРНЯЕВА",
+      "language": "Russian",
+      "year": "1998",
+      "description": "A self-help guide by T.N. Zyurnyaeva offering philosophical and practical advice on how to live. Published by V.P. Ilyin publisher in Minsk.",
+      "genres": [
+        "Self-help",
+        "Philosophy"
+      ],
+      "bookTypes": [
+        "Non-fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:45:19.760Z"
+    },
+    {
       "id": "1785422717415",
       "title": "Žmogus prasmės akivaizdoje",
       "author": "Viktor E. Frankl",
