@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785418249873",
+      "title": "Stiklo Karoliukų Žaidimas",
+      "author": "Hermann Hesse",
+      "language": "Lithuanian",
+      "year": "2000",
+      "description": "Set in a future utopian society, the novel follows Joseph Knecht's rise through the intellectual elite of Castalia, where he devotes himself to mastering the Glass Bead Game — a complex synthesis of music, mathematics, philosophy, and the arts. Hesse's final and most celebrated novel, it won him the Nobel Prize for Literature in 1946.",
+      "genres": [
+        "Literary Fiction",
+        "Philosophical Fiction",
+        "Dystopian",
+        "Romanas"
+      ],
+      "bookTypes": [
+        "Novel",
+        "Classic"
+      ],
+      "locations": [
+        "Pasaulio publicistinė literatūra"
+      ],
+      "added": "2026-07-30T13:30:49.873Z"
+    },
+    {
       "id": "1785417839486",
       "title": "Laukinė Motina Gamta",
       "author": "Eglė Aukštakalnytė Hansen",
