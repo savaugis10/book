@@ -1,6 +1,46 @@
 {
   "books": [
     {
+      "id": "1785423753347",
+      "title": "TIBETO ŠAMANAS",
+      "author": "HEATHER HUGHES - CALERO",
+      "language": "Lithuanian",
+      "year": "2002",
+      "description": "A history of Tibetan shamanism and its spiritual practices. The subtitle indicates it is about the ancient history of Milarepa and esoteric knowledge.",
+      "genres": [
+        "History",
+        "Spirituality",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:02:33.347Z"
+    },
+    {
+      "id": "1785423751834",
+      "title": "VADIM ŽELAND GYVENIMO TRANSFORMACIJOS GREITAJAS 1",
+      "author": "Alma Litvera",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A practical guide focused on rapid life transformation techniques and personal growth strategies. The book appears to be part of a series covering various aspects of self-improvement and life coaching methods.",
+      "genres": [
+        "Self-help",
+        "Personal Development",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non-fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:02:31.834Z"
+    },
+    {
       "id": "1785423749365",
       "title": "REALYBĖS LEMEIAS",
       "author": "VADIM ZELAND",
