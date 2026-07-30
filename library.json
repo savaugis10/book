@@ -1,6 +1,44 @@
 {
   "books": [
     {
+      "id": "1785421668411",
+      "title": "ЛОРА МНОГОУРОВНЕВАЯ СИСТЕМА САМООЗДОРОВЛЕНИЯ И ОМОЛОЖЕНИЯ ОРГАНИЗМА ЧЕЛОВЕКА",
+      "author": "Лариса Фотина",
+      "language": "Russian",
+      "year": "2003",
+      "description": "A multi-level system for self-healing and rejuvenation of the human body. The book presents a comprehensive approach to health and wellness through various therapeutic techniques and methods.",
+      "genres": [
+        "Health",
+        "Self-Help"
+      ],
+      "bookTypes": [
+        "Non-Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:27:48.412Z"
+    },
+    {
+      "id": "1785421666834",
+      "title": "МАЯТНИК ОТ БОЛЕЗНИ К ЗДОРОВЬЮ",
+      "author": "Антон Штангел",
+      "language": "Russian",
+      "year": "1998",
+      "description": "A health and wellness guide discussing the path from illness to health, with focus on medical or therapeutic approaches to recovery and well-being.",
+      "genres": [
+        "Health",
+        "Self-Help"
+      ],
+      "bookTypes": [
+        "Non-Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:27:46.834Z"
+    },
+    {
       "id": "1785421661277",
       "title": "LIKIMO VALDYMO GALIMYBĖS TRANSERIFINGAS I paruopa vartotojui erdė",
       "author": "Vaidin Zeland",
