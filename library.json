@@ -1,6 +1,25 @@
 {
   "books": [
     {
+      "id": "1785422735737",
+      "title": "VIENUOLIO UŽRASAI",
+      "author": "VYTAUTAS KAZLAUSKAS",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A Lithuanian novel featuring a mysterious robed figure on the cover, suggesting themes of mysticism or spiritual exploration. The work appears to be a literary narrative exploring deeper philosophical or emotional dimensions.",
+      "genres": [
+        "Fiction",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Novel"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:45:35.737Z"
+    },
+    {
       "id": "1785422731992",
       "title": "Подводные камни в море биоэнергетики: о чем не говорят наставники Йоги и Ци-гун",
       "author": "Артур Омkaров",
