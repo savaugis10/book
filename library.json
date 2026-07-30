@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "id": "1785422767331",
+      "title": "Breakthrough in SAMATHA MEDITATION and VIPASSANĀ MEDITATION",
+      "author": "Pa-auk Tawya Sayadaw and Dr. Mehm Tin Mon",
+      "language": "English",
+      "year": "",
+      "description": "Two papers on meditation presented at the World Buddhist Summit, explaining how Samatha-Vipassanā can be practiced as directed by the Buddha.",
+      "genres": [
+        "Buddhism",
+        "Meditation",
+        "Spirituality",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:46:07.335Z"
+    },
+    {
       "id": "1785422762920",
       "title": "VIPPASSANA SPIRITUAL INSIGHT",
       "author": "SAYABAW",
