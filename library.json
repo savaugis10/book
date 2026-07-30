@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785423733941",
+      "title": "Kabala slapstasis mokslas",
+      "author": "Michael Laitman",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A book about Kabbalah and its practical wisdom, introducing readers to the fundamental principles and teachings of this mystical Jewish tradition.",
+      "genres": [
+        "Spirituality",
+        "Kabbalah",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:02:13.941Z"
+    },
+    {
       "id": "1785423731894",
       "title": "RYTŲ ŠVIESA VAKARU INTELEKTUI",
       "author": "",
