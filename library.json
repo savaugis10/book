@@ -1,6 +1,46 @@
 {
   "books": [
     {
+      "id": "1785422796382",
+      "title": "Kalbėk - až klausausi",
+      "author": "Jaro Křivohlavý",
+      "language": "Lithuanian",
+      "year": "1996",
+      "description": "A work by Jaro Křivohlavý exploring themes of communication and listening, published by Leidykla Jona in 1996.",
+      "genres": [
+        "Philosophy",
+        "Self-help",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non-fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:46:36.382Z"
+    },
+    {
+      "id": "1785422794739",
+      "title": "ПСИХОТРЕНИНГ ПО МЕТОДУ ХОСЕ СИЛЬВЫ",
+      "author": "Т. Пауэлл Дж. Пауэлл",
+      "language": "Russian",
+      "year": "2000",
+      "description": "A guide to the Jose Silva Method of psychotraining, presenting techniques for mental development and personal improvement through consciousness training.",
+      "genres": [
+        "Psychology",
+        "Self-Help",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non-Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:46:34.739Z"
+    },
+    {
       "id": "1785422791702",
       "title": "KINU HOROSKOPAS",
       "author": "",
