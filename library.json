@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785421669919",
+      "title": "STIPRI NERVŲ SISTEMA—GYVENIMO PAGRINDAS",
+      "author": "POLIS BREGAS",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A book about the nervous system and its fundamental role in life, written by Polis Bregas. The work explores the biological foundations of the nervous system's function.",
+      "genres": [
+        "Health",
+        "Science",
+        "Medical"
+      ],
+      "bookTypes": [
+        "Non Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:27:49.919Z"
+    },
+    {
       "id": "1785421668411",
       "title": "ЛОРА МНОГОУРОВНЕВАЯ СИСТЕМА САМООЗДОРОВЛЕНИЯ И ОМОЛОЖЕНИЯ ОРГАНИЗМА ЧЕЛОВЕКА",
       "author": "Лариса Фотина",
