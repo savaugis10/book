@@ -1,6 +1,99 @@
 {
   "books": [
     {
+      "id": "1785424460850",
+      "title": "PENKTASIS KALNAS",
+      "author": "Paulo Coelho",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A Lithuanian translation of Paulo Coelho's work exploring spiritual themes and personal journey. The book follows the protagonist's quest for meaning and self-discovery.",
+      "genres": [
+        "Fiction",
+        "Spiritual"
+      ],
+      "bookTypes": [
+        "Fiction"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:14:20.851Z"
+    },
+    {
+      "id": "1785424459660",
+      "title": "PRIE PIEDROS UPĖS – TEN AŠ SĖDĖJAU VERKDAMA",
+      "author": "Paulo Coelho",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A work by Paulo Coelho translated into Lithuanian, exploring themes of self-discovery and spiritual journey through the author's characteristic narrative style.",
+      "genres": [
+        "Fiction",
+        "Philosophical"
+      ],
+      "bookTypes": [
+        "Fiction"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:14:19.661Z"
+    },
+    {
+      "id": "1785424458365",
+      "title": "ERAZMO ROTER D'AMIECIO TRUNFAIS IR TRAGEDIJA",
+      "author": "STEFANAS CVEIGAS",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A dramatic work featuring the character Erazmo Roter and themes of triumph and tragedy, written in Lithuanian.",
+      "genres": [
+        "Drama",
+        "Tragedy"
+      ],
+      "bookTypes": [
+        "Fiction"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:14:18.366Z"
+    },
+    {
+      "id": "1785424457056",
+      "title": "Zahira",
+      "author": "Paulo COELHO",
+      "language": "Portuguese",
+      "year": "2009",
+      "description": "A work by Paulo Coelho exploring spiritual and philosophical themes through narrative. The book appears to be a Portuguese-language edition published in Vilnius in 2009.",
+      "genres": [
+        "Fiction",
+        "Spirituality"
+      ],
+      "bookTypes": [
+        "Novel"
+      ],
+      "locations": [],
+      "added": "2026-07-30T15:14:17.056Z"
+    },
+    {
+      "id": "1785424456161",
+      "title": "Prarasta simboli",
+      "author": "Kelionė po D. Browno",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A guide to symbols and their meanings, based on Dan Brown's work, with editorial contributions by John Weber, Patrick Hughe, and Michael Bober.",
+      "genres": [
+        "Symbolism",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non Fiction"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:14:16.161Z"
+    },
+    {
       "id": "1785424454856",
       "title": "BERNARDAS ŠO",
       "author": "EMRIS HIUZAS",
