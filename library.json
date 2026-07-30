@@ -1,6 +1,23 @@
 {
   "books": [
     {
+      "id": "1785421592982",
+      "title": "ТРАКТАТ О БЕЛОЙ МАГИИ",
+      "author": "АЛИСА А.БЕЙЛИ",
+      "language": "Russian",
+      "year": "",
+      "description": "A treatise on white magic exploring spiritual and occult principles from a theosophical perspective. The work discusses magical practices and esoteric wisdom traditions.",
+      "genres": [
+        "Esotericism",
+        "Occultism"
+      ],
+      "bookTypes": [
+        "Non-Fiction"
+      ],
+      "locations": [],
+      "added": "2026-07-30T14:26:32.982Z"
+    },
+    {
       "id": "1785421589756",
       "title": "KAIP ATSIKRATYTI NERIMO IR PRADĖTI GYVENTI",
       "author": "ALISA A.BEIJLI",
