@@ -1,6 +1,168 @@
 {
   "books": [
     {
+      "id": "1785417839486",
+      "title": "Laukinė Motina Gamta",
+      "author": "Eglė Aukštakalnytė Hansen",
+      "language": "Lithuanian",
+      "year": "2020",
+      "description": "A Lithuanian travel writer and photographer shares her extraordinary encounters with endangered and rare wildlife across the world's most remote wild places, from African rhinos and Komodo dragons to polar bears and mountain gorillas. The book is richly illustrated with the author's own nature photography and reflects on the urgent need to protect the natural world amid climate change.",
+      "genres": [
+        "Travel",
+        "Nature",
+        "Non-Fiction"
+      ],
+      "bookTypes": [
+        "Non-Fiction"
+      ],
+      "locations": [
+        "Pasaulio publicistinė literatūra"
+      ],
+      "added": "2026-07-30T13:23:59.486Z"
+    },
+    {
+      "id": "1785417838754",
+      "title": "100 įtakingiausių asmenybių pasaulio istorijoje",
+      "author": "Michael H. Hart",
+      "language": "Lithuanian",
+      "year": "1978",
+      "description": "A ranking of the 100 people who most influenced human history, evaluated not by greatness but by the degree to which their actions changed the course of civilization. The book is a Lithuanian translation of Michael H. Hart's internationally bestselling work, originally published in 1978.",
+      "genres": [
+        "History",
+        "Biography",
+        "Non-Fiction"
+      ],
+      "bookTypes": [
+        "Non-Fiction",
+        "Reference"
+      ],
+      "locations": [
+        "Pasaulio publicistinė literatūra"
+      ],
+      "added": "2026-07-30T13:23:58.754Z"
+    },
+    {
+      "id": "1785417837916",
+      "title": "Sapiens: Glausta žmonijos istorija",
+      "author": "Yuval Noah Harari",
+      "language": "Lithuanian",
+      "year": "2016",
+      "description": "A sweeping history of humankind, tracing the story of Homo sapiens from prehistoric times through the Cognitive, Agricultural, and Scientific Revolutions. Drawing on biology, anthropology, and economics, Harari examines how our species came to dominate the Earth and shaped the world we live in today.",
+      "genres": [
+        "History",
+        "Non-Fiction",
+        "Popular Science"
+      ],
+      "bookTypes": [
+        "Non-Fiction"
+      ],
+      "locations": [
+        "Pasaulio publicistinė literatūra"
+      ],
+      "added": "2026-07-30T13:23:57.916Z"
+    },
+    {
+      "id": "1785417837035",
+      "title": "Homo deus",
+      "author": "Yuval Noah Harari",
+      "language": "Lithuanian",
+      "year": "2016",
+      "description": "Homo Deus explores the future of humanity, examining how humans have overcome famine, plague, and war, and now seek to upgrade themselves into gods using new technologies. Harari speculates on the directions our species might take in the centuries ahead, raising profound ethical and philosophical questions.",
+      "genres": [
+        "Non-Fiction",
+        "History",
+        "Futurism"
+      ],
+      "bookTypes": [
+        "Non-Fiction"
+      ],
+      "locations": [
+        "Pasaulio publicistinė literatūra"
+      ],
+      "added": "2026-07-30T13:23:57.035Z"
+    },
+    {
+      "id": "1785417836145",
+      "title": "21 pamoka XXI amžiui",
+      "author": "Yuval Noah Harari",
+      "language": "Lithuanian",
+      "year": "2018",
+      "description": "A collection of provocative essays in which Yuval Noah Harari examines the most pressing issues of our time, from the rise of technology and artificial intelligence to nationalism, religion, and the challenges facing liberal democracy in the 21st century.",
+      "genres": [
+        "Non-Fiction",
+        "Philosophy",
+        "Political Science"
+      ],
+      "bookTypes": [
+        "Non-Fiction"
+      ],
+      "locations": [
+        "Pasaulio publicistinė literatūra"
+      ],
+      "added": "2026-07-30T13:23:56.145Z"
+    },
+    {
+      "id": "1785417835128",
+      "title": "Pompėjai",
+      "author": "Mary Beard",
+      "language": "Lithuanian",
+      "year": "2015",
+      "description": "A richly detailed portrait of everyday life in the ancient Roman city of Pompeii, whose ruins were preserved after the catastrophic eruption of Mount Vesuvius in 79 CE. Mary Beard interprets archaeological evidence to explore topics ranging from street life and trade to food, religion, and sex, while challenging many long-held myths about the city.",
+      "genres": [
+        "History",
+        "Archaeology",
+        "Non-Fiction"
+      ],
+      "bookTypes": [
+        "Non-Fiction"
+      ],
+      "locations": [
+        "Pasaulio publicistinė literatūra"
+      ],
+      "added": "2026-07-30T13:23:55.128Z"
+    },
+    {
+      "id": "1785417834186",
+      "title": "Milijonas metų per vieną dieną",
+      "author": "Greg Jenner",
+      "language": "Lithuanian",
+      "year": "2016",
+      "description": "Structured around one ordinary day, this book traces the astonishing origins and development of daily routines we take for granted, spanning a million years of human history. It is the Lithuanian translation of Greg Jenner's 'A Million Years in a Day', published by Alma littera in Vilnius.",
+      "genres": [
+        "History",
+        "Non-Fiction",
+        "Popular Science"
+      ],
+      "bookTypes": [
+        "Non-Fiction"
+      ],
+      "locations": [
+        "Pasaulio publicistinė literatūra"
+      ],
+      "added": "2026-07-30T13:23:54.186Z"
+    },
+    {
+      "id": "1785417833225",
+      "title": "Išsamus fotografijos kursas",
+      "author": "John Garrett ir Graeme Harris",
+      "language": "Lithuanian",
+      "year": "2011",
+      "description": "A practical, project-based photography course covering everything from basic composition to digital darkroom techniques, suitable for all skill levels. Originally published in English as 'Collins Complete Photography Course', this is the Lithuanian translation.",
+      "genres": [
+        "Photography",
+        "Non-Fiction",
+        "Education"
+      ],
+      "bookTypes": [
+        "Instructional",
+        "Non-Fiction"
+      ],
+      "locations": [
+        "Pasaulio publicistinė literatūra"
+      ],
+      "added": "2026-07-30T13:23:53.225Z"
+    },
+    {
       "id": "1785417832217",
       "title": "Kaip prižiūrėti katę",
       "author": "Andrew Edney, David Taylor",
