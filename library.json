@@ -1,6 +1,22 @@
 {
   "books": [
     {
+      "id": "1785423654217",
+      "title": "Anasitya",
+      "author": "Washmirss Masrp",
+      "language": "Unknown",
+      "year": "",
+      "description": "",
+      "genres": [
+        "Religion"
+      ],
+      "bookTypes": [],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:00:54.218Z"
+    },
+    {
       "id": "1785422802071",
       "title": "Magija, okultizmas ir krikščionybė – A.Menis",
       "author": "A.Menis",
