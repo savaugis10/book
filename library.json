@@ -1,6 +1,25 @@
 {
   "books": [
     {
+      "id": "1785422711827",
+      "title": "DVASIU PASAULYJE",
+      "author": "Stasė Rudalevičiūtė",
+      "language": "Lithuanian",
+      "year": "1997",
+      "description": "A Lithuanian literary work exploring themes of dual worlds or existence. The angelic imagery on the cover suggests spiritual or metaphysical dimensions to the narrative.",
+      "genres": [
+        "Fiction",
+        "Literature"
+      ],
+      "bookTypes": [
+        "Novel"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:45:11.827Z"
+    },
+    {
       "id": "1785421706501",
       "title": "ЗАЩИТА ОТ СТРЕССА",
       "author": "Х. АЛМЕВ",
