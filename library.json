@@ -1,6 +1,25 @@
 {
   "books": [
     {
+      "id": "1785421706501",
+      "title": "ЗАЩИТА ОТ СТРЕССА",
+      "author": "Х. АЛМЕВ",
+      "language": "Russian",
+      "year": "1996",
+      "description": "A guide on how to protect oneself from stress and maintain well-being in modern conditions. The book provides practical advice for preserving and actualizing oneself in contemporary circumstances.",
+      "genres": [
+        "Self-help",
+        "Psychology"
+      ],
+      "bookTypes": [
+        "Non-fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:28:26.501Z"
+    },
+    {
       "id": "1785421702947",
       "title": "LIKIMO VALDYMO GALIMYBĖS TRANSERFINGAS",
       "author": "Vadim Zeland",
