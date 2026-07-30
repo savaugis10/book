@@ -1,6 +1,45 @@
 {
   "books": [
     {
+      "id": "1785421699498",
+      "title": "KOSMITAI-TAI MES",
+      "author": "STASĖ RUDALEVIČIŪTĖ",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A Lithuanian science fiction novel exploring cosmic themes and humanity's place in the universe. The cover features surreal imagery combining ancient civilizations, space exploration, and mystical elements.",
+      "genres": [
+        "Science Fiction",
+        "Speculative Fiction"
+      ],
+      "bookTypes": [
+        "Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:28:19.498Z"
+    },
+    {
+      "id": "1785421698111",
+      "title": "Moteriškumo ir vyriškumo dvasiniai pradai - pasakoja Stasė Rudalevičiūtė",
+      "author": "Stasė Rudalevičiūtė",
+      "language": "Lithuanian",
+      "year": "1996",
+      "description": "A spiritual and philosophical exploration of femininity and masculinity, discussing their essential characteristics and spiritual dimensions.",
+      "genres": [
+        "Philosophy",
+        "Spirituality",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:28:18.111Z"
+    },
+    {
       "id": "1785421675799",
       "title": "GĖRIO IR BLOGIO TRAUKA",
       "author": "A.Men, C.S.Lewis, A.Bloom, N.Berdiajev, S.Rudalevičiūtė",
