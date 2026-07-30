@@ -1,6 +1,46 @@
 {
   "books": [
     {
+      "id": "1785418309704",
+      "title": "Brida",
+      "author": "Paulo Coelho",
+      "language": "Lithuanian",
+      "year": "1990",
+      "description": "Brida follows a young Irish girl on a spiritual quest for knowledge and self-discovery, as she seeks guidance from wise mentors who introduce her to the traditions of magic. Her journey explores themes of love, destiny, and the search for one's soulmate.",
+      "genres": [
+        "Fiction",
+        "Spirituality",
+        "Magical Realism"
+      ],
+      "bookTypes": [
+        "Novel",
+        "Fiction"
+      ],
+      "locations": [
+        "Grožinė pasaulio literatūra"
+      ],
+      "added": "2026-07-30T13:31:49.704Z"
+    },
+    {
+      "id": "1785418308201",
+      "title": "Mirties Angelas",
+      "author": "Mika Waltari",
+      "language": "Lithuanian",
+      "year": "2008",
+      "description": "A historical novel set during the fall of Constantinople in 1453, told through the diary of John Angelos, a man torn between a hopeless love affair and his commitment to defend the dying Christian city against the Ottoman siege. This is a Lithuanian translation (from Finnish) by Aida Krilavičienė, published in Vilnius in 2008.",
+      "genres": [
+        "Historical Fiction",
+        "Romance"
+      ],
+      "bookTypes": [
+        "Novel"
+      ],
+      "locations": [
+        "Grožinė pasaulio literatūra"
+      ],
+      "added": "2026-07-30T13:31:48.201Z"
+    },
+    {
       "id": "1785418249873",
       "title": "Stiklo Karoliukų Žaidimas",
       "author": "Hermann Hesse",
