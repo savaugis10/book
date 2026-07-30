@@ -1,6 +1,25 @@
 {
   "books": [
     {
+      "id": "1785424447222",
+      "title": "Kafka pakrantėje",
+      "author": "HARUKI MURAKAMI",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A Lithuanian translation of Haruki Murakami's novel that explores themes of isolation and surrealism. The work is translated by Ieva Stasiinaite.",
+      "genres": [
+        "Fiction",
+        "Literary"
+      ],
+      "bookTypes": [
+        "Novel"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:14:07.222Z"
+    },
+    {
       "id": "1785424445080",
       "title": "KOL TAVE RASILU",
       "author": "JOHN IRVING",
