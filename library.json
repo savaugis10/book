@@ -1,6 +1,44 @@
 {
   "books": [
     {
+      "id": "1785424438049",
+      "title": "KALNO ŠEŠĖLIS",
+      "author": "GREGORY DAVID ROBERTS",
+      "language": "Lithuanian",
+      "year": "2020",
+      "description": "A novel translated into Lithuanian from English, originally published in Vilnius in 2020. The work appears to be a spiritual and philosophical adventure narrative based on the symbolic mandala design featured on the cover.",
+      "genres": [
+        "Fiction",
+        "Adventure"
+      ],
+      "bookTypes": [
+        "Novel"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:13:58.049Z"
+    },
+    {
+      "id": "1785424436261",
+      "title": "Da Vinci Kodas",
+      "author": "Dan Brown",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A mystery thriller involving a murder at the Louvre Museum and a quest to uncover secrets hidden in the works of Leonardo da Vinci. The protagonist must solve ancient codes and symbols while evading those who want to keep the truth hidden.",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "bookTypes": [
+        "Fiction"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:13:56.261Z"
+    },
+    {
       "id": "1785424434339",
       "title": "KAMIU",
       "author": "ALBERAS",
