@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785423675866",
+      "title": "MĖNULIO paslaptys",
+      "author": "Sergejus AZANOVAS",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A book exploring the mysteries and secrets of the Moon, featuring detailed astronomical information and celestial observations.",
+      "genres": [
+        "Astronomy",
+        "Science",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non-fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:01:15.866Z"
+    },
+    {
       "id": "1785423672534",
       "title": "Утеряннные Годы Иисуса",
       "author": "Элизабет Клэр Профет",
