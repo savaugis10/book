@@ -1,6 +1,291 @@
 {
   "books": [
     {
+      "id": "1785418322862",
+      "title": "Valkirijos",
+      "author": "Paulo Coelho",
+      "language": "Lithuanian",
+      "year": "2011",
+      "description": "A true-life spiritual odyssey in which Paulo Coelho and his wife embark on a forty-day journey into the Mojave Desert, encountering the Valkyries — warrior women on motorcycles — as Coelho seeks to communicate with his guardian angel and break a devastating curse. The book blends adventure, mysticism, and personal reflection on forgiveness and faith.",
+      "genres": [
+        "Spirituality",
+        "Fiction",
+        "Adventure"
+      ],
+      "bookTypes": [
+        "Novel",
+        "Autobiographical Fiction"
+      ],
+      "locations": [
+        "Grožinė pasaulio literatūra"
+      ],
+      "added": "2026-07-30T13:32:02.862Z"
+    },
+    {
+      "id": "1785418322045",
+      "title": "Piligrimas",
+      "author": "Paulo Coelho",
+      "language": "Lithuanian",
+      "year": "2007",
+      "description": "A semi-autobiographical account of Paulo Coelho's 1986 pilgrimage along the ancient Road to Santiago de Compostela in Spain, guided by a mentor named Petrus. The journey becomes a profound meditation on self-discovery, fear, and spiritual transformation as Coelho seeks to reclaim a symbolic sword he failed to earn during a spiritual initiation.",
+      "genres": [
+        "Spirituality",
+        "Travel Memoir",
+        "Self-Discovery"
+      ],
+      "bookTypes": [
+        "Non-Fiction",
+        "Memoir"
+      ],
+      "locations": [
+        "Grožinė pasaulio literatūra"
+      ],
+      "added": "2026-07-30T13:32:02.045Z"
+    },
+    {
+      "id": "1785418321218",
+      "title": "Skaitymai minutėms",
+      "author": "Hermann Hesse",
+      "language": "Lithuanian",
+      "year": "2007",
+      "description": "A thematically arranged collection of maxims, reflections, and thoughts drawn from Hermann Hesse's books and letters, compiled by editor Volker Michels. This Lithuanian edition was published by Trigrama in Kaunas.",
+      "genres": [
+        "Philosophy",
+        "Essays",
+        "Non Fiction"
+      ],
+      "bookTypes": [
+        "Anthology",
+        "Non Fiction"
+      ],
+      "locations": [
+        "Grožinė pasaulio literatūra"
+      ],
+      "added": "2026-07-30T13:32:01.218Z"
+    },
+    {
+      "id": "1785418320370",
+      "title": "DEMIANAS",
+      "author": "HERMANAS HESĖ",
+      "language": "Lithuanian",
+      "year": "1999",
+      "description": "A deeply introspective Bildungsroman following Emil Sinclair's journey from sheltered childhood through spiritual and psychological self-discovery, guided by the mysterious Max Demian. The novel explores the duality of human nature — light and darkness — drawing on Jungian psychology and Gnostic thought.",
+      "genres": [
+        "Coming-of-Age",
+        "Philosophical Fiction",
+        "Literary Fiction"
+      ],
+      "bookTypes": [
+        "Novel",
+        "Fiction"
+      ],
+      "locations": [
+        "Grožinė pasaulio literatūra"
+      ],
+      "added": "2026-07-30T13:32:00.370Z"
+    },
+    {
+      "id": "1785418319402",
+      "title": "Vidurnakčio vaikai",
+      "author": "Salman Rushdie",
+      "language": "Lithuanian",
+      "year": "1981",
+      "description": "A sweeping allegorical novel following Saleem Sinai, born at the exact midnight moment of India's independence on August 15, 1947, whose life becomes inextricably intertwined with the fate of his nation. He shares a telepathic connection with the other 'midnight's children,' all born in that first hour of independence and endowed with extraordinary gifts.",
+      "genres": [
+        "Magical Realism",
+        "Historical Fiction",
+        "Literary Fiction"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Novel"
+      ],
+      "locations": [
+        "Grožinė pasaulio literatūra"
+      ],
+      "added": "2026-07-30T13:31:59.402Z"
+    },
+    {
+      "id": "1785418318540",
+      "title": "Brodekas",
+      "author": "Philippe Claudel",
+      "language": "Lithuanian",
+      "year": "2007",
+      "description": "A man named Brodeck is forced to write a report about the murder of a mysterious stranger in a small village in an unnamed country, in the aftermath of a devastating war. The novel is a haunting allegory about guilt, trauma, intolerance, and the darkness of human nature.",
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction",
+        "Mystery"
+      ],
+      "bookTypes": [
+        "Fiction"
+      ],
+      "locations": [
+        "Grožinė pasaulio literatūra"
+      ],
+      "added": "2026-07-30T13:31:58.540Z"
+    },
+    {
+      "id": "1785418317644",
+      "title": "1984",
+      "author": "George Orwell",
+      "language": "Lithuanian",
+      "year": "1949",
+      "description": "Set in a totalitarian future state called Oceania, the novel follows Winston Smith as he rebels against the all-controlling Party led by Big Brother. A landmark cautionary tale exploring surveillance, oppression, and the manipulation of truth and history.",
+      "genres": [
+        "Dystopian",
+        "Science Fiction",
+        "Political Fiction"
+      ],
+      "bookTypes": [
+        "Novel",
+        "Fiction"
+      ],
+      "locations": [
+        "Grožinė pasaulio literatūra"
+      ],
+      "added": "2026-07-30T13:31:57.644Z"
+    },
+    {
+      "id": "1785418316728",
+      "title": "Knyga apie San Mikelę",
+      "author": "Axel Munthe",
+      "language": "Lithuanian",
+      "year": "1929",
+      "description": "The Story of San Michele is the celebrated memoir by Swedish physician Axel Munthe, recounting his life as a fashionable doctor in Paris and his decades-long obsession with building a villa on the Isle of Capri on the ruins of Roman Emperor Tiberius's estate. First published in 1929, it became a worldwide bestseller translated into over 40 languages, blending autobiography, history, and vivid storytelling.",
+      "genres": [
+        "Memoir",
+        "Autobiography",
+        "Non-Fiction"
+      ],
+      "bookTypes": [
+        "Non-Fiction"
+      ],
+      "locations": [
+        "Grožinė pasaulio literatūra"
+      ],
+      "added": "2026-07-30T13:31:56.728Z"
+    },
+    {
+      "id": "1785418315842",
+      "title": "Šilkas",
+      "author": "Alessandro Baricco",
+      "language": "Lithuanian",
+      "year": "1996",
+      "description": "Set in 1861, the novel follows French silkworm merchant Hervé Joncour, who travels to Japan to smuggle silkworm eggs and becomes obsessed with a mysterious concubine whose eyes do not have an oriental slant. A lyrical, fable-like love story exploring desire, longing, and obsession.",
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction",
+        "Romance"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Novella"
+      ],
+      "locations": [
+        "Grožinė pasaulio literatūra"
+      ],
+      "added": "2026-07-30T13:31:55.842Z"
+    },
+    {
+      "id": "1785418314880",
+      "title": "NOVEČENTAS",
+      "author": "Alessandro BARICCO",
+      "language": "Lithuanian",
+      "year": "2009",
+      "description": "A theatrical monologue telling the story of a gifted pianist, Danny Boodmann T.D. Lemon Novecento, who was born and raised on a transatlantic ocean liner and never once set foot on land. His extraordinary musical talent captivates all who hear him, and the narrative explores themes of identity, belonging, and the transcendent power of music.",
+      "genres": [
+        "Fiction",
+        "Literary Fiction"
+      ],
+      "bookTypes": [
+        "Monologue",
+        "Drama"
+      ],
+      "locations": [
+        "Grožinė pasaulio literatūra"
+      ],
+      "added": "2026-07-30T13:31:54.880Z"
+    },
+    {
+      "id": "1785418313885",
+      "title": "Pagiriamasis žodis kvailybei",
+      "author": "Erazmas Roterdamietis",
+      "language": "Lithuanian",
+      "year": "2000",
+      "description": "A satirical mock-encomium in which Folly herself praises her own virtues, poking fun at theologians, scholars, and the foibles of humanity. Originally written in Latin in 1509 and first published in 1511, it is Erasmus's most celebrated and enduring work.",
+      "genres": [
+        "Satire",
+        "Philosophy",
+        "Classic"
+      ],
+      "bookTypes": [
+        "Non Fiction"
+      ],
+      "locations": [
+        "Grožinė pasaulio literatūra"
+      ],
+      "added": "2026-07-30T13:31:53.885Z"
+    },
+    {
+      "id": "1785418312863",
+      "title": "Sofijos pasaulis",
+      "author": "Jostein Gaarder",
+      "language": "Lithuanian",
+      "year": "1997",
+      "description": "A novel following a young girl named Sophie who receives mysterious letters guiding her through the history of Western philosophy, exploring profound questions about existence and reality. This is the 1997 Lithuanian-language edition, translated from Norwegian by Eglė Išganaitytė.",
+      "genres": [
+        "Philosophical Fiction",
+        "Literary Fiction"
+      ],
+      "bookTypes": [
+        "Fiction",
+        "Novel"
+      ],
+      "locations": [
+        "Grožinė pasaulio literatūra"
+      ],
+      "added": "2026-07-30T13:31:52.863Z"
+    },
+    {
+      "id": "1785418311828",
+      "title": "Žmonijos priešai",
+      "author": "Mika Waltari",
+      "language": "Lithuanian",
+      "year": "2003",
+      "description": "Set in Rome during the turbulent early days of Christianity following the death of Christ, the novel follows Minutus, a Roman citizen navigating religion, politics, and survival. It is a sequel to The Secret of the Kingdom and the last major work Waltari published in his lifetime.",
+      "genres": [
+        "Historical Fiction",
+        "Literary Fiction"
+      ],
+      "bookTypes": [
+        "Novel"
+      ],
+      "locations": [
+        "Grožinė pasaulio literatūra"
+      ],
+      "added": "2026-07-30T13:31:51.828Z"
+    },
+    {
+      "id": "1785418310792",
+      "title": "Motinos Pienas",
+      "author": "Nora Ikstena",
+      "language": "Lithuanian",
+      "year": "2020",
+      "description": "A novel following three generations of Latvian women living under Soviet rule, exploring the complex and fraught relationship between a mother and daughter through the recurring metaphor of mother's milk. Originally written in Latvian as Mātes piens, this is the Lithuanian translation published in Vilnius.",
+      "genres": [
+        "Historical Fiction",
+        "Literary Fiction"
+      ],
+      "bookTypes": [
+        "Novel"
+      ],
+      "locations": [
+        "Grožinė pasaulio literatūra"
+      ],
+      "added": "2026-07-30T13:31:50.792Z"
+    },
+    {
       "id": "1785418309704",
       "title": "Brida",
       "author": "Paulo Coelho",
