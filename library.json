@@ -1,6 +1,62 @@
 {
   "books": [
     {
+      "id": "1785424464344",
+      "title": "Į švyturį",
+      "author": "Virginia Woolf",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A modernist novel exploring the inner lives of a family and their journey to a lighthouse, examining themes of time, mortality, and human connection.",
+      "genres": [
+        "Literary Fiction",
+        "Modernism"
+      ],
+      "bookTypes": [
+        "Fiction"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:14:24.344Z"
+    },
+    {
+      "id": "1785424462993",
+      "title": "Sjón Tavo akys matė mane",
+      "author": "",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "",
+      "genres": [
+        "Fiction"
+      ],
+      "bookTypes": [
+        "Fiction"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:14:22.993Z"
+    },
+    {
+      "id": "1785424461985",
+      "title": "JESSE NARCIZAS IR AUKSABURNIS",
+      "author": "HERMANN HESSE",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A novel translated from the original work by Hermann Hesse, translated into Lithuanian by Teodoras Četrauskas. The book explores themes of narcissism and greed through its narrative.",
+      "genres": [
+        "Fiction",
+        "Fantasy"
+      ],
+      "bookTypes": [
+        "Novel"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:14:21.985Z"
+    },
+    {
       "id": "1785424460850",
       "title": "PENKTASIS KALNAS",
       "author": "Paulo Coelho",
