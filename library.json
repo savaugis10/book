@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785423744762",
+      "title": "DU GYVENIMÁI II",
+      "author": "KONKORDIA MONOVIDÍA",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "The second volume of a biographical or autobiographical work exploring life experiences and personal narratives. The cover features a symbolic eye design suggesting introspection and self-reflection.",
+      "genres": [
+        "Biography",
+        "Literature",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non-Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:02:24.765Z"
+    },
+    {
       "id": "1785423741681",
       "title": "365 trumpi pasakojimai sielai",
       "author": "BRUNO FERRERO",
