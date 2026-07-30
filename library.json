@@ -1,6 +1,47 @@
 {
   "books": [
     {
+      "id": "1785423718295",
+      "title": "Gyvo mirusiojo laiškąt",
+      "author": "ELZA BARKER",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A literary work exploring themes of death and correspondence, featuring classical artistic imagery on the cover.",
+      "genres": [
+        "Fiction",
+        "Drama",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:01:58.295Z"
+    },
+    {
+      "id": "1785423715888",
+      "title": "Геrio ir bлoggiio pažinimo mедis",
+      "author": "Omeram Miktawi (Омеран Миктави)",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A medical reference book about genealogy and pathological medicine, presenting information about diseases and medical conditions in a structured format.",
+      "genres": [
+        "Medicine",
+        "Health",
+        "Non-fiction",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non-fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:01:55.888Z"
+    },
+    {
       "id": "1785423713303",
       "title": "ROZENKREICERIU VISATOS IR ŽMOGAUS SAMPRATA",
       "author": "Max Heindel",
