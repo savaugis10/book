@@ -1,6 +1,42 @@
 {
   "books": [
     {
+      "id": "1785423729459",
+      "title": "PASLAPITINA INTUITUS GAHA",
+      "author": "Kurt Imppevein Klinkhardter",
+      "language": "English",
+      "year": "",
+      "description": "",
+      "genres": [
+        "Religion"
+      ],
+      "bookTypes": [],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:02:09.459Z"
+    },
+    {
+      "id": "1785423727231",
+      "title": "Atgaidi Stelai Armais žingyšis",
+      "author": "Jacek Cartfield Marte V Hunsean",
+      "language": "Lithuanian",
+      "year": "2001",
+      "description": "",
+      "genres": [
+        "History",
+        "Non-Fiction",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non-Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:02:07.231Z"
+    },
+    {
       "id": "1785423724925",
       "title": "DU GYVENIMAL",
       "author": "I Lalis",
