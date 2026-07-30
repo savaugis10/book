@@ -1,6 +1,45 @@
 {
   "books": [
     {
+      "id": "1785421675799",
+      "title": "GĖRIO IR BLOGIO TRAUKA",
+      "author": "A.Men, C.S.Lewis, A.Bloom, N.Berdiajev, S.Rudalevičiūtė",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A collection of philosophical and spiritual essays exploring the nature of good and evil by renowned authors including C.S. Lewis and others, examining the human attraction to both moral and immoral forces.",
+      "genres": [
+        "Philosophy",
+        "Ethics",
+        "Spirituality"
+      ],
+      "bookTypes": [
+        "Non Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:27:55.799Z"
+    },
+    {
+      "id": "1785421674583",
+      "title": "KOSMITAI - TAI MES 2 dalis",
+      "author": "S.Rudalevičiūtė",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A science fiction narrative set in a cosmic or space-themed environment, exploring themes of discovery and exploration across two parts.",
+      "genres": [
+        "Science Fiction",
+        "Adventure"
+      ],
+      "bookTypes": [
+        "Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:27:54.583Z"
+    },
+    {
       "id": "1785421673300",
       "title": "Savęs bieškant-",
       "author": "Stasė Rudalevičiūtė",
