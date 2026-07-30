@@ -1,6 +1,44 @@
 {
   "books": [
     {
+      "id": "1785422726045",
+      "title": "Dešimt vidinės ramybės ir sėkmės paslapčių",
+      "author": "Wayne W. Dyer",
+      "language": "Lithuanian",
+      "year": "2002",
+      "description": "A Lithuanian translation of Wayne W. Dyer's work exploring ten secrets to inner peace and success. The book offers guidance on personal transformation and achieving both inner tranquility and external accomplishment.",
+      "genres": [
+        "Self-help",
+        "Personal development"
+      ],
+      "bookTypes": [
+        "Non-fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:45:26.045Z"
+    },
+    {
+      "id": "1785422723998",
+      "title": "ЭНЕРГЕТИЧЕСКОЕ ЗДОРОВЬЕ",
+      "author": "М. Норбеков Ю. Хван",
+      "language": "Russian",
+      "year": "2001",
+      "description": "A book about energetic health and wellness practices, focusing on methods to improve personal vitality and well-being through various techniques and approaches.",
+      "genres": [
+        "Health",
+        "Self-Help"
+      ],
+      "bookTypes": [
+        "Non-Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:45:23.998Z"
+    },
+    {
       "id": "1785422721897",
       "title": "Послания с небес",
       "author": "Учения Вознесенных Владык",
