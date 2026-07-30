@@ -1,6 +1,43 @@
 {
   "books": [
     {
+      "id": "1785424428451",
+      "title": "Mażäs gyvenimas",
+      "author": "Hanuja Yanagihara",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A novel exploring the lives and interconnected stories of characters in contemporary society. The work examines themes of relationships, ambition, and personal transformation.",
+      "genres": [
+        "Fiction",
+        "Literary Fiction"
+      ],
+      "bookTypes": [
+        "Fiction"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:13:48.451Z"
+    },
+    {
+      "id": "1785424426348",
+      "title": "Hermano Hesės gyvenimas",
+      "author": "Alois Prinz",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A biography of Herman Hesse, exploring his life and literary career. The book examines how Hesse's personal experiences shaped his philosophical and artistic works.",
+      "genres": [
+        "Biography"
+      ],
+      "bookTypes": [
+        "Non Fiction"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:13:46.348Z"
+    },
+    {
       "id": "1785424424144",
       "title": "KARALIAUS SALIAMONO BAIMĖS",
       "author": "Romain Gary (Émile Ajar)",
