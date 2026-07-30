@@ -1,6 +1,61 @@
 {
   "books": [
     {
+      "id": "1785424452139",
+      "title": "Stepių vilkas",
+      "author": "Hermanas Hesė",
+      "language": "Lithuanian",
+      "year": "1992",
+      "description": "A Lithuanian translation of Hermann Hesse's 'Steppenwolf,' a novel exploring the inner conflict of an intellectual man caught between civilization and his wilder nature. The work examines themes of alienation, identity, and the struggle between opposing forces within the human soul.",
+      "genres": [
+        "Fiction",
+        "Literary Fiction"
+      ],
+      "bookTypes": [
+        "Novel"
+      ],
+      "locations": [],
+      "added": "2026-07-30T15:14:12.139Z"
+    },
+    {
+      "id": "1785424450843",
+      "title": "MYLĖK SAVOJ ARTLINĄ",
+      "author": "ERICH MARIA REMARQUE",
+      "language": "Lithuanian",
+      "year": "2008",
+      "description": "A Lithuanian translation of Erich Maria Remarque's classic novel about the experiences of soldiers during World War I. The work explores the devastating impact of war on a generation of young men.",
+      "genres": [
+        "Fiction",
+        "War"
+      ],
+      "bookTypes": [
+        "Novel"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:14:10.843Z"
+    },
+    {
+      "id": "1785424449365",
+      "title": "ŠINDLERIO sąrašas",
+      "author": "Thomas Keneally",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A historical novel based on the true story of Oskar Schindler, a German industrialist who saved over a thousand Polish-Jewish refugees during the Holocaust by employing them in his factories.",
+      "genres": [
+        "Historical Fiction",
+        "War"
+      ],
+      "bookTypes": [
+        "Fiction"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:14:09.365Z"
+    },
+    {
       "id": "1785424447222",
       "title": "Kafka pakrantėje",
       "author": "HARUKI MURAKAMI",
