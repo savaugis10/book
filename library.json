@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785422756966",
+      "title": "PURPOSE OF PRACTISING KAMMATTHANA MEDITATION",
+      "author": "The Venerable Mahāsi Sayādaw of Myanmar",
+      "language": "English",
+      "year": "",
+      "description": "A guide to Kammatthana meditation practice by a respected Burmese Buddhist teacher, explaining the purposes and methods of this traditional meditation technique.",
+      "genres": [
+        "Buddhism",
+        "Spirituality",
+        "Meditation",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non Fiction",
+        "Religious Text"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:45:56.966Z"
+    },
+    {
       "id": "1785422751632",
       "title": "FUNDAMENTALS OF VIPASSANÂ MEDITATION",
       "author": "The Venerable Mahasi Sayadaw",
