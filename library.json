@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "id": "1785422731992",
+      "title": "Подводные камни в море биоэнергетики: о чем не говорят наставники Йоги и Ци-гун",
+      "author": "Артур Омkaров",
+      "language": "Russian",
+      "year": "",
+      "description": "A critical examination of underwater pitfalls in bioenergetics, discussing what yoga and Qi-gung instructors don't tell their students about the practice of these disciplines.",
+      "genres": [
+        "Non-fiction",
+        "Self-help",
+        "Spirituality",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non-fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:45:31.993Z"
+    },
+    {
       "id": "1785422727994",
       "title": "ВИЗУАЛИЗАЦИЯ",
       "author": "Хелен Грэхэм",
