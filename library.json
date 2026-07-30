@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785422782405",
+      "title": "KAIP įveikti stresą ir pradėti gyventi",
+      "author": "DEILAS KARNEGIS",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A guide on how to overcome stress and begin living better, based on principles of personal development and mental well-being.",
+      "genres": [
+        "Self-help",
+        "Psychology",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non-fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:46:22.405Z"
+    },
+    {
       "id": "1785422778683",
       "title": "DŪ TŪKSTANČIAI METŲ PO KRISTAUS IR ŽMONIJOS ATEITИСЬ",
       "author": "VYTAUTAS KAZLAUSKAS",
