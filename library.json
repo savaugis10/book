@@ -1,6 +1,46 @@
 {
   "books": [
     {
+      "id": "1785422802071",
+      "title": "Magija, okultizmas ir krikščionybė – A.Menis",
+      "author": "A.Menis",
+      "language": "Lithuanian",
+      "year": "1994",
+      "description": "An exploration of magic, occultism, and their relationship to Christianity, with additional commentary on vampires and superstitions, featuring expert consultation by S.Rudalevičiūtė and V.Kapačauskas.",
+      "genres": [
+        "Religion",
+        "Occult",
+        "Philosophy"
+      ],
+      "bookTypes": [
+        "Non-Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:46:42.071Z"
+    },
+    {
+      "id": "1785422800313",
+      "title": "DVASINGUMAS IR SVEIKATA I",
+      "author": "Arnoldas Eretas",
+      "language": "Lithuanian",
+      "year": "1997",
+      "description": "A guide to duality and health covering topics such as nutrition, energy medicine, and natural healing practices. Part of the Sveikuolio Biblioteka (Health Library) series.",
+      "genres": [
+        "Health",
+        "Self-help",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:46:40.313Z"
+    },
+    {
       "id": "1785422798163",
       "title": "DVASINGUMAS IR SVEIKATA II",
       "author": "",
