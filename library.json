@@ -1,6 +1,25 @@
 {
   "books": [
     {
+      "id": "1785422714899",
+      "title": "DVAŠINES SAVIAUKLOS PATARIMAI",
+      "author": "A.Menis, A.Blóom, C.S.Lewis",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A guide offering practical advice and wisdom on personal self-improvement and life guidance, compiled from works by three authors.",
+      "genres": [
+        "Self-help",
+        "Practical advice"
+      ],
+      "bookTypes": [
+        "Non-fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:45:14.899Z"
+    },
+    {
       "id": "1785422711827",
       "title": "DVASIU PASAULYJE",
       "author": "Stasė Rudalevičiūtė",
