@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "id": "1785422751632",
+      "title": "FUNDAMENTALS OF VIPASSANÂ MEDITATION",
+      "author": "The Venerable Mahasi Sayadaw",
+      "language": "English",
+      "year": "",
+      "description": "A guide to Vipassanâ (insight) meditation techniques and practice as taught by the Venerable Mahasi Sayadaw, translated by Maung Tha Noe. The book provides foundational teachings on this Buddhist meditation method aimed at developing mindfulness and spiritual insight.",
+      "genres": [
+        "Buddhism",
+        "Spirituality",
+        "Meditation",
+        "Komedija"
+      ],
+      "bookTypes": [
+        "Non Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:45:51.632Z"
+    },
+    {
       "id": "1785422749477",
       "title": "ОСВОБОЖДЕНИЕ",
       "author": "Дмитрий Верищагин",
