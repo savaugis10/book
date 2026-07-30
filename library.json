@@ -1,6 +1,44 @@
 {
   "books": [
     {
+      "id": "1785424419431",
+      "title": "Bandymai iš tą išpausti iš gyvenimo",
+      "author": "Hendrik Groen",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A translated work by Hendrik Groen, an 83¼ year old author, presenting his thoughts and observations drawn from life experiences.",
+      "genres": [
+        "Biography",
+        "Memoir"
+      ],
+      "bookTypes": [
+        "Non Fiction"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:13:39.431Z"
+    },
+    {
+      "id": "1785424416784",
+      "title": "ŠIMTAS METŲ VIENATVĖS",
+      "author": "GABRIELIS GARSIJA MARKESAS",
+      "language": "Lithuanian",
+      "year": "1991",
+      "description": "A novel about solitude and isolation spanning a century, originally published in Spanish as 'Cien años de soledad' (One Hundred Years of Solitude). This is a Lithuanian translation published by Lietuvos Fotomenininkų Sąjunga in Vilnius.",
+      "genres": [
+        "Fiction",
+        "Literary Fiction"
+      ],
+      "bookTypes": [
+        "Novel"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:13:36.784Z"
+    },
+    {
       "id": "1785423753347",
       "title": "TIBETO ŠAMANAS",
       "author": "HEATHER HUGHES - CALERO",
