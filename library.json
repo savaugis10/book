@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785423672534",
+      "title": "Утеряннные Годы Иисуса",
+      "author": "Элизабет Клэр Профет",
+      "language": "Russian",
+      "year": "2004",
+      "description": "An examination of the documented travels and teachings of Jesus during his early life, particularly focusing on his journeys to the East and his time among various spiritual traditions including Notovitch, Abhedananda, Rericha, and Caspari accounts of Jesus's journey to the Orient.",
+      "genres": [
+        "Religion",
+        "History",
+        "Spirituality"
+      ],
+      "bookTypes": [
+        "Non Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:01:12.534Z"
+    },
+    {
       "id": "1785423669252",
       "title": "Рыцари Грааля",
       "author": "Т.Платонова",
