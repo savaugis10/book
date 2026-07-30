@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785423749365",
+      "title": "REALYBĖS LEMEIAS",
+      "author": "VADIM ZELAND",
+      "language": "Lithuanian",
+      "year": "2012",
+      "description": "An authorized book by Vadim Zeland translated from Russian, exploring themes of reality and destiny. Published by Alma littera in Vilnius.",
+      "genres": [
+        "Fiction",
+        "Philosophy",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:02:29.366Z"
+    },
+    {
       "id": "1785423747130",
       "title": "GYVENIMO TRANSERFINGАС 2",
       "author": "VADIM ZELAND",
