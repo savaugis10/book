@@ -1,6 +1,84 @@
 {
   "books": [
     {
+      "id": "1785421702947",
+      "title": "LIKIMO VALDYMO GALIMYBĖS TRANSERFINGAS",
+      "author": "Vadim Zeland",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A work exploring the possibilities of managing one's life and reality through the transerfing method, a concept developed by Vadim Zeland for personal development and consciousness expansion.",
+      "genres": [
+        "Self-help",
+        "Philosophy"
+      ],
+      "bookTypes": [
+        "Non-fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:28:22.947Z"
+    },
+    {
+      "id": "1785421702197",
+      "title": "APLINKOS ENERGETIKA IR SVEIKATA. STEBUKLAI, ANTIKRITAS, REINKARNACIJA",
+      "author": "A.Menis, S.Rudalevičiūtė",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A book exploring environmental energy and health, discussing miracles, anti-Christ themes, and reincarnation from a spiritual and metaphysical perspective.",
+      "genres": [
+        "Spirituality",
+        "Alternative Medicine",
+        "Esotericism"
+      ],
+      "bookTypes": [
+        "Non Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:28:22.197Z"
+    },
+    {
+      "id": "1785421701433",
+      "title": "MEILĖS SPALVOS",
+      "author": "Clive Staples Lewis, Anthony Bloom, Aleksandr Men, Vladimir Solovjov, Nikolaj Berdjajev, Stasė Rudalevičiūtė",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A collection of essays exploring the nature and manifestations of love from philosophical and religious perspectives by various authors including C.S. Lewis and other notable thinkers.",
+      "genres": [
+        "Philosophy",
+        "Religious Studies"
+      ],
+      "bookTypes": [
+        "Essay Collection"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:28:21.433Z"
+    },
+    {
+      "id": "1785421700526",
+      "title": "Meilės ir neapykantos galios",
+      "author": "Stasė Rudalevičiūtė",
+      "language": "Lithuanian",
+      "year": "1995",
+      "description": "A spiritual and philosophical work exploring themes of love, hate, energy, reincarnation, materialization, and karma through the S. Lazarev method. The book discusses soul energy, healing, and spiritual transformation.",
+      "genres": [
+        "Spirituality",
+        "Self-help",
+        "Philosophy"
+      ],
+      "bookTypes": [
+        "Non-fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:28:20.526Z"
+    },
+    {
       "id": "1785421699498",
       "title": "KOSMITAI-TAI MES",
       "author": "STASĖ RUDALEVIČIŪTĖ",
