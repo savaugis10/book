@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785423659364",
+      "title": "ANASTASIJA",
+      "author": "Vladimiras Megre",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A spiritual fiction novel that appears to be part of a series, containing books 4-6 including 'Pasaulio Sukūrimas', 'Kas mes?' and 'Giminės Knyga'. The cover features mystical and nature-inspired imagery with a glowing figure and a house in a circular frame.",
+      "genres": [
+        "Fiction",
+        "Spiritual",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:00:59.364Z"
+    },
+    {
       "id": "1785423654217",
       "title": "Anasitya",
       "author": "Washmirss Masrp",
