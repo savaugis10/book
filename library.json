@@ -1,6 +1,47 @@
 {
   "books": [
     {
+      "id": "1785423737557",
+      "title": "Merfio DEŠNIUI RINKINYS",
+      "author": "Arthuras Blochas",
+      "language": "Lithuanian",
+      "year": "1999",
+      "description": "A selected collection of works by Arthuras Blochas, featuring poetry and literary pieces. Published in Kaunas in 1999.",
+      "genres": [
+        "Poetry",
+        "Literature",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Collection"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:02:17.557Z"
+    },
+    {
+      "id": "1785423735910",
+      "title": "DEVYNIOS SĖKMINGO MEDITAVIMO PASLAPTYS",
+      "author": "Samprasad Vinod",
+      "language": "Lithuanian",
+      "year": "2003",
+      "description": "A guide to the secrets of successful meditation, translated from the English original by Edmundas Juškevičius. The book provides practical insights and techniques for achieving effective meditation practice.",
+      "genres": [
+        "Self-help",
+        "Spirituality",
+        "Meditation",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non-fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:02:15.910Z"
+    },
+    {
       "id": "1785423733941",
       "title": "Kabala slapstasis mokslas",
       "author": "Michael Laitman",
