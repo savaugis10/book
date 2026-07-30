@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785422778683",
+      "title": "DŪ TŪKSTANČIAI METŲ PO KRISTAUS IR ŽMONIJOS ATEITИСЬ",
+      "author": "VYTAUTAS KAZLAUSKAS",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A work by Vytautas Kazlauskas examining religious and philosophical themes related to two thousand years after Christ and humanity's future.",
+      "genres": [
+        "Religious",
+        "Philosophy",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:46:18.683Z"
+    },
+    {
       "id": "1785422775749",
       "title": "Jūsų pasąmonės galia",
       "author": "Joseph Murphy",
