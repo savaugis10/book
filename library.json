@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785423739776",
+      "title": "DU GYVENIMAI III dalis 1 knyga",
+      "author": "KONKORDIJA ANTAROVA",
+      "language": "Lithuanian",
+      "year": "1999",
+      "description": "The third part, first book of a multi-volume work exploring lives and experiences. Published by Gilvata publishing house in 1999.",
+      "genres": [
+        "Fiction",
+        "Biography",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Novel"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:02:19.776Z"
+    },
+    {
       "id": "1785423737557",
       "title": "Merfio DEŠNIUI RINKINYS",
       "author": "Arthuras Blochas",
