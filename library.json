@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "id": "1785422791702",
+      "title": "KINU HOROSKOPAS",
+      "author": "",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A diagnostic guide based on body meridians during the imperial period, combining horoscopic analysis with self-diagnosis methods according to the body's meridian systems.",
+      "genres": [
+        "Health",
+        "Astrology",
+        "Self-help",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non-fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:46:31.702Z"
+    },
+    {
       "id": "1785422788696",
       "title": "VLADIMIRAS AZANOVAS AIŠKIAREGYSTĖS LABIRINTUOSE: reinkarnacija, poltergeistai, sveikata, magija, karma, meilė, Jaro...",
       "author": "Feliksas MARCINKAS",
