@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785422741859",
+      "title": "ЦЕЛИТЕЛЬСТВО АКАДЕМИЧЕСКИЙ СЛОВАРЬ",
+      "author": "",
+      "language": "Russian",
+      "year": "",
+      "description": "An academic dictionary focused on healing and medical terminology, presented bilingually in Russian and English.",
+      "genres": [
+        "Reference",
+        "Medical",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Dictionary"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:45:41.859Z"
+    },
+    {
       "id": "1785422735737",
       "title": "VIENUOLIO UŽRASAI",
       "author": "VYTAUTAS KAZLAUSKAS",
