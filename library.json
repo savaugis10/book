@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785423678856",
+      "title": "REZONANSO MENAS",
+      "author": "",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A book about resonance and its meanings, with a subtitle suggesting it deals with harmony and balance (Saves ivaldymas ir siderinhimas).",
+      "genres": [
+        "Self-help",
+        "Personal Development",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non-fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:01:18.856Z"
+    },
+    {
       "id": "1785423675866",
       "title": "MĖNULIO paslaptys",
       "author": "Sergejus AZANOVAS",
