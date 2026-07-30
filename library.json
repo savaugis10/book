@@ -1,6 +1,25 @@
 {
   "books": [
     {
+      "id": "1785422717415",
+      "title": "Žmogus prasmės akivaizdoje",
+      "author": "Viktor E. Frankl",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A Lithuanian translation of Viktor Frankl's work exploring human meaning and existence in the face of life's challenges. The book examines how individuals can find purpose and meaning in their lives.",
+      "genres": [
+        "Psychology",
+        "Philosophy"
+      ],
+      "bookTypes": [
+        "Non Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:45:17.415Z"
+    },
+    {
       "id": "1785422714899",
       "title": "DVAŠINES SAVIAUKLOS PATARIMAI",
       "author": "A.Menis, A.Blóom, C.S.Lewis",
