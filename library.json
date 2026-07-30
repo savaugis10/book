@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785423681635",
+      "title": "KARMOS DIAGNUSTIKA",
+      "author": "SERGEJUS LAZAREVAS",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A Lithuanian novel featuring mysterious and supernatural themes, as suggested by the eerie imagery on the cover depicting a face with dramatic architectural elements in the background.",
+      "genres": [
+        "Fiction",
+        "Horror",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:01:21.635Z"
+    },
+    {
       "id": "1785423678856",
       "title": "REZONANSO MENAS",
       "author": "",
