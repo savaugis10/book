@@ -1,6 +1,101 @@
 {
   "books": [
     {
+      "id": "1785424469749",
+      "title": "NAKTIS LISABOŅOJE",
+      "author": "ERICH MARIA REMARQUE",
+      "language": "Lithuanian",
+      "year": "2008",
+      "description": "A novel by the renowned German author Erich Maria Remarque, translated into Lithuanian. The work explores themes typical of Remarque's literary style, examining human experiences and emotions during turbulent historical periods.",
+      "genres": [
+        "Fiction",
+        "Drama"
+      ],
+      "bookTypes": [
+        "Novel"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:14:29.749Z"
+    },
+    {
+      "id": "1785424468716",
+      "title": "IŠSIFRUOJANT DA VINCI",
+      "author": "Michael J. Gelb",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A book about Leonardo da Vinci exploring his life, methods, and genius across art, science, and invention. The work likely examines da Vinci's approach to learning and creativity as applicable to modern readers.",
+      "genres": [
+        "Biography",
+        "Self-help"
+      ],
+      "bookTypes": [
+        "Non-fiction"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:14:28.716Z"
+    },
+    {
+      "id": "1785424467651",
+      "title": "IVEIKTI DA VINČIO KODĄ",
+      "author": "Darrell L. Bock, Ph. D",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "An analysis and exploration of Leonardo da Vinci's life, work, and legacy, examining the mysteries and codes associated with the renowned Renaissance master.",
+      "genres": [
+        "Mystery",
+        "Non-Fiction"
+      ],
+      "bookTypes": [
+        "Non-Fiction"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:14:27.651Z"
+    },
+    {
+      "id": "1785424466512",
+      "title": "Mažasis princas",
+      "author": "Antoine de Saint-Exupéry",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A philosophical fable about a young prince who travels through the universe visiting various planets and ultimately arrives on Earth. The story explores themes of love, loss, and the importance of what is essential in life.",
+      "genres": [
+        "Fiction",
+        "Children's Literature"
+      ],
+      "bookTypes": [
+        "Fiction"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:14:26.512Z"
+    },
+    {
+      "id": "1785424465477",
+      "title": "Smulkus vedybiniai nusikaltimai",
+      "author": "Eric-Emmanuel Schmitt",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A novel about petty domestic crimes, translated from French into Lithuanian by Stasė Banionytė. Published by Alma littera.",
+      "genres": [
+        "Fiction",
+        "Crime"
+      ],
+      "bookTypes": [
+        "Fiction"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:14:25.477Z"
+    },
+    {
       "id": "1785424464344",
       "title": "Į švyturį",
       "author": "Virginia Woolf",
