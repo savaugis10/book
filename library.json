@@ -1,6 +1,25 @@
 {
   "books": [
     {
+      "id": "1785421595943",
+      "title": "Дневник слушателя учебно-оздоровительного курса",
+      "author": "",
+      "language": "Russian",
+      "year": "",
+      "description": "A diary for students of an educational and health improvement course, with an appendix referencing Mirzakarim Norbekov's book on healing through vision correction.",
+      "genres": [
+        "Self-help",
+        "Health"
+      ],
+      "bookTypes": [
+        "Diary"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:26:35.943Z"
+    },
+    {
       "id": "1785421592982",
       "title": "ТРАКТАТ О БЕЛОЙ МАГИИ",
       "author": "АЛИСА А.БЕЙЛИ",
