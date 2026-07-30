@@ -1,6 +1,25 @@
 {
   "books": [
     {
+      "id": "1785424430462",
+      "title": "IŠKODUOTI DA VINČIO KODĄ",
+      "author": "SHARAN NEWMAN",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A novel that decodes the mysteries and secrets related to Leonardo da Vinci's code and legacy. The book explores historical enigmas connected to da Vinci's works and discoveries.",
+      "genres": [
+        "Mystery",
+        "Fiction"
+      ],
+      "bookTypes": [
+        "Fiction"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:13:50.462Z"
+    },
+    {
       "id": "1785424428451",
       "title": "Mażäs gyvenimas",
       "author": "Hanuja Yanagihara",
