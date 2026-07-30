@@ -1,6 +1,28 @@
 {
   "books": [
     {
+      "id": "1785422744960",
+      "title": "PRACTICAL VIPASSANĀ MEDITATIONAL EXERCISE",
+      "author": "MAHASI SAYADAW",
+      "language": "English",
+      "year": "",
+      "description": "A practical guide to vipassanā (insight) meditation exercises by the renowned Burmese Buddhist teacher Mahasi Sayadaw. The book provides instructions and techniques for practitioners seeking to develop mindfulness and insight through meditative practice.",
+      "genres": [
+        "Spirituality",
+        "Meditation",
+        "Buddhism",
+        "Komedija"
+      ],
+      "bookTypes": [
+        "Non Fiction",
+        "Self-Help"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:45:44.960Z"
+    },
+    {
       "id": "1785422741859",
       "title": "ЦЕЛИТЕЛЬСТВО АКАДЕМИЧЕСКИЙ СЛОВАРЬ",
       "author": "",
