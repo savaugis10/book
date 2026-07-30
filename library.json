@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785423747130",
+      "title": "GYVENIMO TRANSERFINGАС 2",
+      "author": "VADIM ZELAND",
+      "language": "Lithuanian",
+      "year": "2011",
+      "description": "The second part of a series about life transerfing, exploring the relationship between consciousness and reality. Subtitle indicates it deals with practical application of gyvenima (life) concepts.",
+      "genres": [
+        "Self-help",
+        "Philosophy",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non-fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:02:27.130Z"
+    },
+    {
       "id": "1785423744762",
       "title": "DU GYVENIMÁI II",
       "author": "KONKORDIA MONOVIDÍA",
