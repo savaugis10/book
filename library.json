@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785423731894",
+      "title": "RYTŲ ŠVIESA VAKARU INTELEKTUI",
+      "author": "",
+      "language": "Lithuanian",
+      "year": "1999",
+      "description": "A work published by Sri Chinmoy Center in Kaunas that explores the relationship between Eastern wisdom and Western intellectual traditions.",
+      "genres": [
+        "Philosophy",
+        "Spirituality",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:02:11.894Z"
+    },
+    {
       "id": "1785423729459",
       "title": "PASLAPITINA INTUITUS GAHA",
       "author": "Kurt Imppevein Klinkhardter",
