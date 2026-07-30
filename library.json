@@ -1,6 +1,25 @@
 {
   "books": [
     {
+      "id": "1785421589756",
+      "title": "KAIP ATSIKRATYTI NERIMO IR PRADĖTI GYVENTI",
+      "author": "ALISA A.BEIJLI",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A self-help book based on Dale Carnegie's principles about overcoming anxiety and starting to live. The subtitle indicates it focuses on proven methods for immediate relief from worry.",
+      "genres": [
+        "Self-help",
+        "Psychology"
+      ],
+      "bookTypes": [
+        "Non-fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:26:29.756Z"
+    },
+    {
       "id": "1785418322862",
       "title": "Valkirijos",
       "author": "Paulo Coelho",
