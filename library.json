@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785422798163",
+      "title": "DVASINGUMAS IR SVEIKATA II",
+      "author": "",
+      "language": "Lithuanian",
+      "year": "1997",
+      "description": "A religious educational text about duality and health, part of a spiritual library series focusing on salvation and evangelical teachings.",
+      "genres": [
+        "Religious",
+        "Educational",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Educational"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:46:38.163Z"
+    },
+    {
       "id": "1785422796382",
       "title": "Kalbėk - až klausausi",
       "author": "Jaro Křivohlavý",
