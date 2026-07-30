@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785423741681",
+      "title": "365 trumpi pasakojimai sielai",
+      "author": "BRUNO FERRERO",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A collection of 365 short spiritual stories or reflections, one for each day of the year, designed to inspire and nourish the soul.",
+      "genres": [
+        "Inspirational",
+        "Spiritual",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:02:21.681Z"
+    },
+    {
       "id": "1785423739776",
       "title": "DU GYVENIMAI III dalis 1 knyga",
       "author": "KONKORDIJA ANTAROVA",
