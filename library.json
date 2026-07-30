@@ -1,6 +1,46 @@
 {
   "books": [
     {
+      "id": "1785422775749",
+      "title": "Jūsų pasąmonės galia",
+      "author": "Joseph Murphy",
+      "language": "Lithuanian",
+      "year": "2008",
+      "description": "A Lithuanian translation of Joseph Murphy's work exploring the power of the subconscious mind and its influence on personal success and well-being. The book presents techniques for harnessing subconscious potential to achieve life goals.",
+      "genres": [
+        "Self-help",
+        "Psychology",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non-fiction"
+      ],
+      "locations": [
+        "Pasaulio publicistinė literatūra"
+      ],
+      "added": "2026-07-30T14:46:15.749Z"
+    },
+    {
+      "id": "1785422773537",
+      "title": "MISTICZMAS",
+      "author": "CARGO",
+      "language": "Polish",
+      "year": "",
+      "description": "A fantasy adventure novel featuring magical elements and mysterious characters. The book appears to be part of a series involving enchanted worlds and supernatural journeys.",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:46:13.537Z"
+    },
+    {
       "id": "1785422771373",
       "title": "ПОСЛЕДНИЙ ЗАВЕТ",
       "author": "",
