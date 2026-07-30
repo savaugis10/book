@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785423710800",
+      "title": "ROZENKRUCERUS VISATOS IR ŽMOGAUS SAMPRATA",
+      "author": "Max Heindel",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A work exploring Rosicrucian teachings and philosophy regarding human nature and cosmic understanding, originally written by Max Heindel and translated into Lithuanian.",
+      "genres": [
+        "Occultism",
+        "Spirituality",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Non Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:01:50.800Z"
+    },
+    {
       "id": "1785423707365",
       "title": "ROZENKREUCIERY IR ŽMOGAUS SAMPRATA",
       "author": "Max Heindel",
