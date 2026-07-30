@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "id": "1785423669252",
+      "title": "Рыцари Грааля",
+      "author": "Т.Платонова",
+      "language": "Russian",
+      "year": "1998",
+      "description": "A historical fiction novel set in medieval times, exploring themes of chivalry and the legendary Holy Grail. The narrative follows knights on their quests and adventures.",
+      "genres": [
+        "Historical Fiction",
+        "Adventure",
+        "Religion"
+      ],
+      "bookTypes": [
+        "Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T15:01:09.253Z"
+    },
+    {
       "id": "1785423659364",
       "title": "ANASTASIJA",
       "author": "Vladimiras Megre",
