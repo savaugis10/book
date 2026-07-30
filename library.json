@@ -1,6 +1,44 @@
 {
   "books": [
     {
+      "id": "1785424424144",
+      "title": "KARALIAUS SALIAMONO BAIMĖS",
+      "author": "Romain Gary (Émile Ajar)",
+      "language": "Lithuanian",
+      "year": "",
+      "description": "A novel by Romain Gary, published under his pseudonym Émile Ajar, translated into Lithuanian by Violeta Tauragienė. The work explores themes related to King Solomon's fears.",
+      "genres": [
+        "Fiction",
+        "Literary"
+      ],
+      "bookTypes": [
+        "Novel"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:13:44.144Z"
+    },
+    {
+      "id": "1785424421842",
+      "title": "Praamžiai ir kiti laikai",
+      "author": "Olga Tokarczuk",
+      "language": "Lithuanian",
+      "year": "2000",
+      "description": "A novel by Polish author Olga Tokarczuk, exploring themes of time and human experience through interconnected narratives.",
+      "genres": [
+        "Fiction",
+        "Literary"
+      ],
+      "bookTypes": [
+        "Novel"
+      ],
+      "locations": [
+        "Pasaulio literatūra"
+      ],
+      "added": "2026-07-30T15:13:41.842Z"
+    },
+    {
       "id": "1785424419431",
       "title": "Bandymai iš tą išpausti iš gyvenimo",
       "author": "Hendrik Groen",
