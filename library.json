@@ -1,6 +1,25 @@
 {
   "books": [
     {
+      "id": "1785421673300",
+      "title": "Savęs bieškant-",
+      "author": "Stasė Rudalevičiūtė",
+      "language": "Lithuanian",
+      "year": "1996",
+      "description": "A reflective work exploring questions of aristocracy, bourgeoisie, and social class through the lens of temperament and character. The book presents tests and philosophical inquiries into identity and social status.",
+      "genres": [
+        "Biography",
+        "Philosophy"
+      ],
+      "bookTypes": [
+        "Non Fiction"
+      ],
+      "locations": [
+        "Dvasinė literatura"
+      ],
+      "added": "2026-07-30T14:27:53.300Z"
+    },
+    {
       "id": "1785421669919",
       "title": "STIPRI NERVŲ SISTEMA—GYVENIMO PAGRINDAS",
       "author": "POLIS BREGAS",
